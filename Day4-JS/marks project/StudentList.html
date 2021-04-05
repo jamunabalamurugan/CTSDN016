@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Student Details</title>
+</head>
+g
+<body>
+<div class="w3-container">
+    <div class="row">
+        <div class="col-md-8">
+            <h2 class="text-center text-primary">Display Student Details</h2>
+        </div>
+        <div class="col-md-4" >
+            <div class="w3-show-inline-block">
+                <div class="w3-bar">
+                    <button class="w3-btn btn-secondary" id="addStudent">Add Student</button>
+                    <button class="w3-btn btn-primary" id="displayStudents" float:left>Display Student</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="row">
+        <div class="col">
+            <table class="table" id="tblStudentList">
+                <thead>
+                    <tr>
+                        <th>RegNo</th>
+                        <th>Student Name</th>
+                        <th>School Name</th>
+                        <th>Actions</th>
+                    </tr>
+                    <tbody id="tblStudentRows">
+                        <tr >
+                            <!-- <td>001</td>
+                            <td>Harshitha</td>
+                            <td>Bhavans Rajaji Vidhyashram</td>
+                            <td><button class="btn btn-secondary" id="viewStudents">View</button>
+                                <button class="btn btn-primary" id="editStudents">Edit</button>
+                                <button class="btn btn-danger" id="deleteStudents">Delete</button>
+                            </td> -->
+                        </tr>
+                    </tbody>
+                </thead>
+            </table>
+        </div>
+    </div>
+
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.js"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script src="StudentList.js"></script>
+</body>
+</html>

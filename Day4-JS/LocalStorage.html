@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Storage Demo</title>
+    <script src="storage.js"></script>
+</head>
+<body>
+    <div id="container">
+		<header>
+			<h1> Storage Example</h1>
+			
+		</header>
+		
+		<nav id="menu">
+			<ul>
+				<li class="menuitem"><a href="index.html">Home</a></li>
+				<li class="menuitem"><a href="about.html">About Us</a></li>
+				<li class="menuitem"><a href="contact.html">Contact Us</a></li>
+			</ul>
+           	<div id="displayname">
+                <script type="text/javascript">
+               	displayName();
+                </script>
+			</div>
+	    </nav>
+		 
+
+    <script type="text/javascript">
+        showText();
+    </script>
+    <form id="news" onsubmit="initStorage()">
+        Name: <input type="text" id="name" name="name"><br>
+        Email: <input type="email" id="email" name="email"><br>
+        <input type="submit" value="Save"><br>
+        <a href="#" onClick="clearAll()">Clear</a>
+    </form>
+
+</div><!--container end-->
+<div style="clear:both" ></div>
+<footer class="mt-4">
+    Copyright &copy; 2021, CTS Demo
+</footer>
+ 
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Add Marksheet</title>
+</head>
+<body>
+    <div class="container mx-auto">
+        <div class="row">
+            <a href="file:///F:/Jamuna/AVS/HTML/MarksCalculator/StudentList.html">Home</a>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <img src="../img/logo.jpg" alt="" height=150 width=200>
+            </div>
+        </div>
+        <div class="card" style="width:100%">
+            <div class="card-body">
+                <div class="row">
+                    <h4 class="text-danger">Personal Details</h4>
+                </div>
+                <div class="row">
+                    <div class="col mx-auto">
+                        <form action="" id="personalForm">
+                            <div class="form-row">
+                                <div class="form-group col-md-4">
+                                    <label for="inputRegno" class="text-primary">Reg.No</label>
+                                    <input type="text" class="form-control" id="inputRegno" placeholder="Enter Reg No">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputName" class="text-primary">Name</label>
+                                    <input type="text" class="form-control" id="inputName" placeholder="Enter your Name">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputEmail" class="text-primary">Email</label>
+                                    <input type="text" class="form-control" id="inputEmail" placeholder="Enter Email">
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="inputSchoolname" class="text-primary">School Name</label>
+                                    <input type="text" class="form-control" id="inputSchoolname" placeholder="Enter School Name">
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="inputCity" class="text-primary">City</label>
+                                    <input type="text" class="form-control" id="inputCity" placeholder="Enter City">
+                                </div>
+                            </div>
+                            <div class="col-md-8 mx-auto">
+                                <button type="submit" class="btn btn-primary btn-block">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <h4 class="text-danger">Add Subjects</h4>
+                </div>
+                <div class="row">
+                    <div class="col mx-auto">
+                        <form action="" id="subjectForm">
+                            <div class="form-row">
+                                <div class="form-group col-md-4">
+                                    <label for="inputSubject" class="text-primary">Subject</label>
+                                    <input type="text" class="form-control" id="inputSubject" placeholder="Enter Subject Name">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputMaxMarks" class="text-primary">Max Marks</label>
+                                    <input type="text" class="form-control" id="inputMaxMarks" placeholder="Enter Maximum Marks">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="inputScored" class="text-primary">Marks Scored</label>
+                                    <input type="text" class="form-control" id="inputScored" placeholder="Enter Marks Scored">
+                                </div>
+                            </div>
+                            <div class="col-md-8 mx-auto">
+                                <button type="submit" class="btn btn-primary btn-block">Submit Subject</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <h4 class="text-danger">Subjects</h4>
+                </div>
+                <div id="subjectList">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>S.No</th>
+                                <th>Subject</th>
+                                <th>Max Marks</th>
+                                <th>Scored</th>
+                                <th>%</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody">
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="row">
+                    <div class="col mx-auto">
+                        <form action="" id="studentForm">
+                            <div class="col-md-8 mx-auto">
+                                <button type="submit" class="btn btn-primary btn-block">Submit Student Details</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.js"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script src="marksheet.js"></script>
+</body>
+</html>

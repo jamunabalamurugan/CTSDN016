@@ -1,0 +1,182 @@
+<!-- Latest compiled and minified CSS -->
+<html>
+    <head>
+        <title>My 12th Marks</title>
+        <meta charset="="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit-no"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    #loading, #results{
+        display:none;
+    }
+    .grade{
+        text-align:center;
+    }
+    input.form-control{
+    border: none;
+    outline: #4CAF50 solid 0px;
+    margin: auto;  
+    padding: 0px;
+
+}
+</style>
+</head>
+
+<body class="bg-light">
+    <div class="container">
+        
+        <div class=row>
+            
+            <div class="col-md-10 mx-auto">
+                <div class="card card-body text-left mt-1">
+                    <div id="photo" style="text-align: left">
+                        <div class="row">
+                        <div class="col-md-1">
+                        <img style="vertical-align:top;height: 48px;width:72px;" src="../img/cbse.png" alt="" >
+                        </div>
+                        <div class="col-md-11" >
+                        <span class="btn-dark dark" style="vertical-align:text-bottom;font-family:Georgia, Helvetica, sans-serif;font-weight:bolder;font-size:small;color: antiquewhite;">
+                            केंद्रीय माध्यमिक शिक्षा बोर्ड
+                        </span>
+                        <br>
+                        <span  class="btn-dark dark" style="vertical-align:bottom; font-family:Georgia, Helvetica, sans-serif;font-weight:bolder;font-size:larger;color: antiquewhite;">
+                              Central Board of Secondary Education
+                        </span>
+                        </div>
+                        </div>
+                        <div class="row">
+                        <h6 align=right style="font-size:small" class="col-md-11">Brought to you by National Informatics Center</h6>
+                        </div>
+                    </div>
+                                  
+                   
+                    <h6 align=center class="heading display-6 pb-1">Examination Results</h6>
+                    <h6 align=center>Senior School Certificate Examination (Class XII) Results 2019</h6>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        
+                        <div class="col-md-9 text-center">
+                            <table class="table table-borderless table-sm">
+                            <tr><th>Roll No:              </th><td>4609100</td></tr>
+                            <tr><th>Candidate Name:       </th><th>Harshitha B</th></tr>
+                            <tr><th>Mother's Name:        </th><td>Jamuna B</td></tr>
+                            <tr><th>Father's Name:        </th><td>M S Balamurugan</td></tr>
+                            <tr><th>School's Name:        </th><td>BHAVAN's RAJAJI VIDYASHRAM KILPAUK CHENNAI TN</td></tr>
+                            </table>
+                    
+                     
+                            
+                        </div>
+                    </div>
+                    <div class="row">  
+                        <div class="col-md-2"></div>
+                        
+                        <div class="col-md-9 text-center"> 
+                        <table class="table table-bordered table-sm">
+                            <tr>
+                                <th>SUB CODE</th>
+                                <th>SUB NAME</th>
+                                <th>THEORY</th>
+                                <th>PRACTICAL</th>
+                                <th>MARKS</th>
+                                <th>GRADE</th>
+                            </tr>
+                            <tr>
+                                <td>301</td>
+                                <td>ENGLISH CORE</td>
+                                <td><input type="number" id="tenglish" class="form-control" aria-label="Enter English Marks out of 100"></td>
+                                <td></td>
+                                <td><input type="number" id="english" class="form-control" aria-label="Enter English Marks out of 100" disabled></td>
+                                <td class="grade">A1</td>
+                            </tr>
+                            <tr>
+                                <td>041</td>
+                                <td>MATHEMATICS</td>
+                                <td><input type="number" id="tmaths" class="form-control" aria-label="Enter Maths Marks out of 100"></td>
+                                <td></td>
+                                <td><input type="number" id="maths" class="form-control" aria-label="Enter Maths Marks out of 100" disabled></td>
+                                <td class="grade">A2</td>
+                            </tr>
+                            <tr>
+                                <td>042</td>
+                                <td>PHYSICS</td>
+                                <td><input type="number" id="tphysics" class="form-control" aria-label="Theory Physics Marks out of 70"></td>
+                                <td><input type="number" id="pphysics" class="form-control" aria-label="Practical Physics Marks out of 30"></td>
+                                <td><input type="number" id="physics" class="form-control" aria-label="Total Physics Marks out of 100" disabled></td>
+                                <td class="grade">A1</td>
+                            </tr>
+                            <tr>
+                                <td>043</td>
+                                <td>CHEMISTRY</td>
+                                <td><input type="number" id="tchemistry" class="form-control" aria-label="Theory Chemistry Marks out of 70"></td>
+                                <td><input type="number" id="pchemistry" class="form-control" aria-label="Practical Chemistry Marks out of 30"></td>
+                                <td><input type="number" id="chemistry" class="form-control" aria-label="Total Chemistry Marks out of 100" disabled></td>
+                                <td class="grade">A1</td>
+                            </tr>
+                            <tr>
+                                <td>044</td>
+                                <td>BIOLOGY</td>
+                                <td><input type="number" id="tbiology" class="form-control" aria-label="Theory Biology Marks out of 70"></td>
+                                <td><input type="number" id="pbiology" class="form-control" aria-label="Practical Biology Marks out of 30"></td>
+                                <td><input type="number" id="biology" class="form-control" aria-label="Total Biology Marks out of 100" disabled></td>
+                                <td class="grade">A1</td>
+                            </tr>
+                            
+                        </table>
+                        <form id="marks-form">
+                            <div class="form-group mt-4">
+                                <input type="submit" value="Calculate"  class="btn btn-dark btn-block">
+                            </div>
+                        </form>
+                        </div>
+                    </div>
+
+                    <!-- Next Row for Loading Image -->
+                    <div class="text-center" id="loading">
+                        <img src="../img/loading.gif" alt="">
+                    </div>
+                    
+                    <!-- Next Row for Results -->
+                    <div id="results">
+                        <h5 class="text-center">Results</h5>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="row">
+                                    
+                                     <span class="input-group-addon col-md-9 text-left">Total Marks</span>
+                                     <input type="number" class="form-control col-md-3 text-left" id="totalmarks" placeholder="Total Marks" disabled>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <div class="row">
+                                    <span class="input-group-addon col-md-9">% of Marks</span>
+                                    <input type="number" class="form-control col-md-3 text-left" id="percentage" disabled>
+                                </div>
+                            </div>
+                        </div>
+                       <div class="form-group">
+                            <div class="input-group">
+                                <input type="text" class="alert alert-success col-md-12 mx-auto text-center" id="admission-status" disabled>
+                            </div>
+                        </div>
+              
+                        
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+      
+    
+<script src="https://code.jquery.com/jquery-3.2.1.js"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script src="marks.js"></script>
+</body>
+</html>
