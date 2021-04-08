@@ -6,6 +6,7 @@ for (let index = 0; index < fruits.length; index++) {
     console.log(fruits[index]);
     
 }
+console.log('The Sorted Fruits List')
 console.log(fruits.sort());
 fruits.push('Woodapple');
 fruits.reverse();
@@ -104,5 +105,5 @@ document.write("<b>Using while loops </b><br />");
       return discount;
 
     }
-//console.log('The discount amount is : Rs.',calculateDiscount('Platinum',1000))
-console.log(findKiwi());
+console.log('The discount amount is : Rs.',calculateDiscount('Platinum',1000))
+//console.log(findKiwi());

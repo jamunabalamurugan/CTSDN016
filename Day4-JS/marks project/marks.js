@@ -3,7 +3,7 @@ document.getElementById('marks-form').addEventListener('submit',function(e){
 
     document.getElementById('results').style.display='none';//to hide
     document.getElementById('loading').style.display='block';//to display
-    setTimeout(calculateResults,5000);
+    setTimeout(calculateResults,1000);
     e.preventDefault();
 });
 
