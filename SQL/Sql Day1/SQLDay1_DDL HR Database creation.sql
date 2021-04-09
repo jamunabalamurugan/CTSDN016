@@ -27,7 +27,7 @@ drop table tblemployee
 Create table tblEmployee(
 EmployeeId int not null ,
 Name nvarchar(20) not null,
-Location nvarchar(30),
+Location nvarchar(30)
 )
 go
 
@@ -66,13 +66,13 @@ select id,Name from tblEmployee
 go
 --DML Select ,Insert,Update,Delete
 --Insert records
-insert tblEmployee(Id,Name,Location) 
+insert tblEmployee(EmployeeId,Name,Location) 
 values(1001,'Kavin','Chennai')
 insert into tblEmployee
 values(1002,'Kanav','Bangalore')
 go
 --Inserting Multiple Employee Record
-insert into tblEmployee(Id,Name,Location)
+insert into tblEmployee(EmployeeId,Name,Location)
 values
 (1003,'Harshitha','Mumbai'),
 (1004,'Sumedha','Pune'),
@@ -95,6 +95,8 @@ select top 25 percent * from tblEmployee
 select * from tblEmployee
 
 go
+sp_helpdb CTSHR
+sp_help tblEmployee
 --Rename the table
 sp_rename 'tblEmployee','tblEmployeeInfo'
 go
@@ -119,16 +121,15 @@ Name nvarchar(30) not null)
 insert tblDepartment
 values(1,'Admin')
 insert tblDepartment
-
 values(2,'Finance')
-insert tblDepartment(Depid)
-values(100)
+insert tblDepartment(Depid,Name)
+values(3,'IT')
 
 select * from tblDepartment
 
 drop table tblEmployeeInfo
 
-Create table tblEmployeeInfo(Id int not null ,
+Create table tblEmployeeInfo(Id int not null primary key ,
 Name nvarchar(20) not null,
 Location nvarchar(30),
 DepId int foreign key 

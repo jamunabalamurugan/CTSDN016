@@ -55,7 +55,7 @@ select max(birthdate) as average_salary from employees
 select distinct(city) from employees
 
 --Filtering rows
---? Where clause is used to get the rows from the table that satisfy one or more conditions
+--? Where clau	se is used to get the rows from the table that satisfy one or more conditions
 --SELECT select_list FROM table_name WHERE search_condition;
 --? Retrieve all products with the category id 1
 SELECT productid, productname, categoryid, unitprice FROM
