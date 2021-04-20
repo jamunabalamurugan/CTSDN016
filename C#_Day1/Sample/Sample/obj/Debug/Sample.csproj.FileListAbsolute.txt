@@ -1,0 +1,7 @@
+E:\CTS\C#\C#_Day1\Sample\Sample\bin\Debug\Sample.exe.config
+E:\CTS\C#\C#_Day1\Sample\Sample\bin\Debug\Sample.exe
+E:\CTS\C#\C#_Day1\Sample\Sample\bin\Debug\Sample.pdb
+E:\CTS\C#\C#_Day1\Sample\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+E:\CTS\C#\C#_Day1\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+E:\CTS\C#\C#_Day1\Sample\Sample\obj\Debug\Sample.exe
+E:\CTS\C#\C#_Day1\Sample\Sample\obj\Debug\Sample.pdb

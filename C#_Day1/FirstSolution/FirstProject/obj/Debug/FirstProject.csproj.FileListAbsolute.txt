@@ -1,0 +1,14 @@
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe.config
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.pdb
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.pdb
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe.config
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.pdb
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.exe
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.pdb
+E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache

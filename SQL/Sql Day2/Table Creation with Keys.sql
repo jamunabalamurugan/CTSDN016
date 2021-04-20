@@ -74,3 +74,10 @@ CREATE TABLE employees
     , commission_pct integer
     , manager_id     integer constraint mgrid_fk REFERENCES	 employees (employee_id)
     , department_id  integer constraint departmentid_fk REFERENCES  departments (department_id));
+
+
+SELECT  5 + 10.5 
+SELECT -12 + 8 
+SELECT unitsinstock * unitprice as total_COST FROM Products;
+SELECT bill_amt / 10 FROM orders;
+SELECT getdate() + 7 

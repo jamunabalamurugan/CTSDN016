@@ -49,17 +49,18 @@ select firstname,lastname from employees;
 
 --? SQL statement to display derived data:
 
-select firstname+' '+lastname as 'Name' from employees
+select firstname+' '+lastname  'Name' from employees
+
 select max(birthdate) as average_salary from employees
 --? DISTINCT: get only distinct values in a specified column of a table
 select distinct(city) from employees
 
 --Filtering rows
---? Where clau	se is used to get the rows from the table that satisfy one or more conditions
+--? Where clause is used to get the rows from the table that satisfy one or more conditions
 --SELECT select_list FROM table_name WHERE search_condition;
 --? Retrieve all products with the category id 1
-SELECT productid, productname, categoryid, unitprice FROM
-products WHERE categoryid = 1
+SELECT productid, productname, categoryid, unitprice
+FROM products WHERE categoryid = 1
 --? Retrieve all products category id is 1 and the model is 2018.
 --SELECT productid, productname, categoryid, modelyear, list_price FROM
 --products WHERE categoryid = 1 AND modelyear = 2018
@@ -144,19 +145,45 @@ SELECT customerid, contactname FROM customers
 WHERE contactname NOT LIKE 'A%'
 
 
+--SQL which is common for all RDBMS
+--Transact-SQL syntax for Microsoft SQL Server or PL/SQL specific syntax for Oracle
 
 --Filtering rows with TOP:
 SELECT TOP 10 productname, unitprice FROM products
-ORDER BY unitprice DESC;
+ORDER BY unitprice;
 SELECT TOP 1 PERCENT productname, unitprice FROM
 products ORDER BY unitprice DESC;
 SELECT TOP 3 WITH TIES productname, unitprice FROM
 products ORDER BY unitprice DESC;
 
+SELECT TOP 1 productid,productname,unitprice 
+     FROM products 
+     ORDER BY unitprice DESC
+SELECT TOP 100 productid,productname,unitprice,UnitsInStock
+     FROM products 
+     ORDER BY unitprice DESC,unitsinstock DESC
+
+SELECT TOP 1 *
+     FROM products 
+     ORDER BY unitprice DESC
+--1.Write a query to find the most expensive product price
+select max(unitprice) from products
+--2.Write a query to find the least expensive product
+select min(unitprice) from products
+--3.Write a query to find the 3rd most expensive product
+select * from products where UnitPrice=(
+SELECT TOP 1 UnitPrice 
+FROM 
+    (SELECT TOP 3 unitprice 
+     FROM products 
+     ORDER BY unitprice DESC) AS Comp 
+ORDER BY unitprice ASC
+)
+
 
 
 --With SQL, how do you select all the records from a table named
---“Persons” where the value of the column “FirstName” ends
+--“Employees” where the value of the column “FirstName” ends
 --with an “a”?
 SELECT * FROM Employees WHERE FirstName='%a%'
 SELECT * FROM Employees WHERE FirstName LIKE 'a%'
@@ -246,13 +273,27 @@ SELECT * FROM Employees WHERE FirstName LIKE '%a'
 --? Find the average list price of all products in the products table:
  SELECT AVG(unitprice) avg_product_price FROM products
 --? Find the number of products whose price is greater than 500:
- SELECT COUNT(*) product_count FROM products WHERE unitprice > 500
+ SELECT COUNT(*) product_count FROM products WHERE unitprice > 200
 --? Find the highest list price of all products:
  SELECT MAX(unitprice) max_list_price FROM products;
 --? Find the lowest list price of all products:
  SELECT MIN(unitprice) min_list_price FROM products;
 --? Calculate the total stock by product:
  SELECT SUM(unitsinstock) stock_count FROM products
+  SELECT AVG(unitsinstock) stock_count FROM products
+  SELECT min(unitsinstock) stock_count FROM products
+ select count(unitsinstock) from products
+ select count(*) from products
+ select productid,unitsinstock from products
+ 
+ update products set unitsinstock=0
+ where productid=29 or productid=31
+
+ update products set unitsinstock=null
+ where productid in (29,31)
+
+  update products set unitsinstock=null
+ where unitsinstock=0
 
 
 

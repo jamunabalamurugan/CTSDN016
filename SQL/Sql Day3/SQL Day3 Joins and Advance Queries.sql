@@ -116,7 +116,7 @@ select * from tblDepartment
 select *
 from
 tblEmployeeInfo 
-cross join
+ cross join
 tblDepartment 
 
 select * from 
@@ -134,8 +134,8 @@ FROM table1
 LEFT [OUTER] JOIN table2
 ON table1.column = table2.column;
 */
-insert into tblEmployeeInfo(employeeid,Name,location,Salary,Hiredate,Managerid) 
-values(1014,'Divya','Goa',30000,'2016-7-20',1002)
+insert into tblEmployeeInfo(id,Name,location,Salary,Managerid) 
+values(1014,'Divya','Goa',30000,1002)
 
 --Left Join
 select tblEmployeeInfo.Name,tblEmployeeInfo.location,d.name,tblEmployeeInfo.Depid from 
@@ -145,6 +145,7 @@ on tblEmployeeInfo.Depid=d.Depid
 
 
 --Right Join
+insert tbldepartment values(5,'HR')
 
 select e.Name,e.location,d.name,d.Depid from 
 tblEmployeeInfo e
@@ -161,17 +162,17 @@ on e.Depid=d.Depid
 --display only the employees name and who have a manager name for each employee
 
 select * from tblEmployeeInfo
-
-select e.Name as 'Employee Name',e.employeeid,m.Name as 'Manager Name',m.managerid
+--Self Join
+select e.Name as 'Employee Name',e.id,m.Name as 'Manager Name',m.managerid
 from tblEmployeeInfo e
 join tblEmployeeInfo m
-on e.managerid=m.employeeid
+on e.managerid=m.id
 
 --Display all employees and their Mananger Name whether he has a manager or not
-select e.Name as 'Employee Name',e.employeeid,m.Name as 'Manager Name',m.employeeid
+select e.Name as 'Employee Name',e.id,m.Name as 'Manager Name',m.id
 from tblEmployeeInfo e
 left join tblEmployeeInfo m
-on e.managerid=m.employeeid
+on e.managerid=m.id
 
 select e.Name as 'Employee Name',e.employeeid ,e.managerid
 from tblEmployeeInfo e
@@ -179,13 +180,14 @@ from tblEmployeeInfo e
 
 
 
---Display the department information with no of employees in each department order by no of employees
+--Display the department information with no of employees
+--in each department order by no of employees
 --display the name of employee who dont have manager
 --display the  manger name , no of employees whose manager name is not null and having more than 2 employee
 select Mgr.Name 'Manager',COUNT(emp.name)
 from  tblEmployeeInfo emp
 inner join tblEmployeeInfo mgr
-on emp.managerid=mgr.employeeid
+on emp.managerid=mgr.id
 where mgr.name is not null
 group by emp.managerid,mgr.Name
 having COUNT(emp.Name)>2
