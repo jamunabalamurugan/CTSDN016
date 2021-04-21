@@ -12,3 +12,10 @@ E:\CTS\C#\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.csprojAss
 E:\CTS\C#\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
 E:\CTS\C#\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.exe
 E:\CTS\C#\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.pdb
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.exe
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\obj\Debug\SecondProject.pdb
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\bin\Debug\SecondProject.exe.config
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\bin\Debug\SecondProject.exe
+E:\CTS\DN016\Training\C#_Day1\SecondSolution\SecondProject\bin\Debug\SecondProject.pdb

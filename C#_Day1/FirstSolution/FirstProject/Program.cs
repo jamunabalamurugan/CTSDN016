@@ -29,12 +29,21 @@ namespace FirstProject
             iNum2 = 1000;
             iNum1 = 200;
             Console.WriteLine("User user please enter the first number");
-            iNum1 = int.Parse(Console.ReadLine());
+          //  iNum1 = int.Parse(Console.ReadLine());
             int temp;
-            if(int.TryParse("abcd", out temp))
-                Console.WriteLine("The converted integer is s: {0}",temp);
+            
+
+            //string var1 = Console.ReadLine();
+            //bool result=int.TryParse(var1, out iNum1);
+            //if(result==true)
+            //    Console.WriteLine("The converted integer is s: {0}", iNum1);
+            //else
+            //    Console.WriteLine("Could not convert iNum1 to an integer");
+
+            if (int.TryParse(Console.ReadLine(), out iNum1))
+                Console.WriteLine("The converted integer is s: {0}",iNum1);
             else
-                Console.WriteLine("Could not convert to an integer");
+                Console.WriteLine("Could not convert iNum1 to an integer");
 
             Console.WriteLine("Way to go... now please enter the Second number");
             iNum2 = int.Parse(Console.ReadLine());
@@ -67,6 +76,7 @@ namespace FirstProject
             int iNum1, iNum2;
             Console.WriteLine("User user please enter the first number");
             iNum1 = int.Parse(Console.ReadLine());
+    
             Console.WriteLine("Way to go... now please enter the first number");
             iNum2 = int.Parse(Console.ReadLine());
             string opr;
@@ -153,13 +163,13 @@ namespace FirstProject
 
             //Calcualte();
             //DynamicCalculation();
-
+            PrintTheGreatestOfTwo();
             //Calc.DynamicCalculation();
             //UnderstandingWhileLoop();
             //Console.WriteLine("-------------------------------------");
             //UnderstandingDoWhileLoop();
             //Console.WriteLine("-------------------------------------");
-            UnderstandingForLoop();
+            //UnderstandingForLoop();
             //PrintTheSumOfGivenNumbers();
             Console.ReadKey();
         }

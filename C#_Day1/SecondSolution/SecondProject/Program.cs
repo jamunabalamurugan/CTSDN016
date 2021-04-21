@@ -59,7 +59,10 @@ namespace SecondProject
         static void Main(string[] args)
         {
             //CalculateTotalAmount();
-            TakeNumberAndCheckForPrime();
+            //TakeNumberAndCheckForPrime();
+            Game gameobject = new Game();
+            gameobject.CowsAndBulls();
+
             Console.ReadKey();
         }
     }

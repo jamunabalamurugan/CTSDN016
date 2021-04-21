@@ -12,3 +12,10 @@ E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csproj.CoreC
 E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.exe
 E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.pdb
 E:\CTS\C#\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe.config
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.exe
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\bin\Debug\FirstProject.pdb
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.exe
+E:\CTS\DN016\Training\C#_Day1\FirstSolution\FirstProject\obj\Debug\FirstProject.pdb

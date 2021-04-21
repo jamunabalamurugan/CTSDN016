@@ -1,0 +1,7 @@
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\bin\Debug\prjFirstConsoleApp.exe.config
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\bin\Debug\prjFirstConsoleApp.exe
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\bin\Debug\prjFirstConsoleApp.pdb
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\obj\Debug\prjFirstConsoleApp.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\obj\Debug\prjFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\obj\Debug\prjFirstConsoleApp.exe
+E:\CTS\DN016\Training\C#_Day1\prjFirstConsoleApp\prjFirstConsoleApp\obj\Debug\prjFirstConsoleApp.pdb
