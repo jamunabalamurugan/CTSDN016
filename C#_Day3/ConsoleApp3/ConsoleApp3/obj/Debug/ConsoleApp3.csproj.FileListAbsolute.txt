@@ -1,0 +1,9 @@
+F:\Jamuna\GET 855\C#\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

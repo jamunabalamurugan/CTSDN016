@@ -1,0 +1,7 @@
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\CTS\DN016\Training\C#_Day3\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

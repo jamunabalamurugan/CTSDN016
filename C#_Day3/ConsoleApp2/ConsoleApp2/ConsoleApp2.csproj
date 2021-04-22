@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5205CA18-4A77-4B36-A681-B5522CEE43D0}</ProjectGuid>
+    <ProjectGuid>{16A23CB7-7D03-4DA9-8B85-0E22AEECFA53}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FirstProject</RootNamespace>
-    <AssemblyName>FirstProject</AssemblyName>
+    <RootNamespace>ConsoleApp2</RootNamespace>
+    <AssemblyName>ConsoleApp2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>FirstProject.Program</StartupObject>
+    <StartupObject>Fibonacci</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Class2.cs" />
-    <Compile Include="MyCalculator.cs" />
+    <Compile Include="ColourChange.cs" />
+    <Compile Include="Fibonacci.cs" />
+    <Compile Include="CheckVowel.cs" />
+    <Compile Include="MenuEg.cs" />
+    <Compile Include="EvenOddEg.cs" />
+    <Compile Include="PrimeNumberEg.cs" />
+    <Compile Include="Divisible.cs" />
+    <Compile Include="DivisibilityCheckEg.cs" />
+    <Compile Include="SwitchCaseEg.cs" />
+    <Compile Include="ForLoopEg.cs" />
+    <Compile Include="Product_Even.cs" />
+    <Compile Include="Leap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
