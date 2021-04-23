@@ -1,0 +1,14 @@
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.exe.config
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.exe
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.pdb
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.exe
+F:\Jamuna\GET 855\C#\Day1\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.pdb
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.exe.config
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.exe
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\bin\Debug\prjFirstApp.pdb
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.exe
+E:\CTS\DN016\Training\C#_Day4\prjFirstApp\prjFirstApp\obj\Debug\prjFirstApp.pdb

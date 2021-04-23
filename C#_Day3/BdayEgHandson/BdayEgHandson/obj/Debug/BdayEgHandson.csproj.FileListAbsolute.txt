@@ -1,0 +1,7 @@
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\bin\Debug\BdayEgHandson.exe.config
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\bin\Debug\BdayEgHandson.exe
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\bin\Debug\BdayEgHandson.pdb
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\obj\Debug\BdayEgHandson.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\obj\Debug\BdayEgHandson.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\obj\Debug\BdayEgHandson.exe
+E:\CTS\DN016\Training\C#_Day3\BdayEgHandson\BdayEgHandson\obj\Debug\BdayEgHandson.pdb
