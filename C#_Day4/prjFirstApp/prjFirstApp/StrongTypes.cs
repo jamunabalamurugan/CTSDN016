@@ -16,6 +16,7 @@ namespace prjFirstApp
             float Num1= 10.5f;
             double Num2 = 11.8;
             int Num3 = 6;
+            Num1 = Num3;//Implicit Conversion.....Smaller data type can be converted to bigger datatype
             Num3 = Convert.ToInt32(Num1);//Explicit Conversion needed Cannot assign a float in to int
             Num3 = (int)Num2;//type casting --Might have data loss
             //Convert with status

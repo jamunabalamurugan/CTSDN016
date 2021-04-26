@@ -1,0 +1,13 @@
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe.config
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.pdb
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csprojResolveAssemblyReference.cache
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.exe
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.pdb
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe.config
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\bin\Debug\PropertyEg.pdb
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csprojAssemblyReference.cache
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csproj.CoreCompileInputs.cache
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\obj\Debug\PropertyEg.exe
+E:\CTS\C#\C#_Day2\PropertyEg\PropertyEg\obj\Debug\PropertyEg.pdb

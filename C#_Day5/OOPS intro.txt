@@ -1,0 +1,19 @@
+Oops-combine both data members and functions as a single unit-Object
+Eg of Object-- Book
+Identity-Name
+Attributes-subject,price,no of pages,content
+Functions-read,write
+State-
+
+Data Encapusulation-data and function stored together in one entity
+Data Hiding- An Objects function provides the only way to access data
+
+classes
+Inheritance
+Reusability
+Polymorphisn
+
+
+
+
+

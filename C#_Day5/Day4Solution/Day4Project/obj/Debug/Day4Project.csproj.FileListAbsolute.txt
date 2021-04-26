@@ -1,0 +1,7 @@
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\bin\Debug\Day4Project.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\bin\Debug\Day4Project.exe
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\bin\Debug\Day4Project.pdb
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.exe
+E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.pdb

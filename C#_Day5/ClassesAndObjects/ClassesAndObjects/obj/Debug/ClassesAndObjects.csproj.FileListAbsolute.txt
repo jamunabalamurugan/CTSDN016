@@ -1,0 +1,21 @@
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+D:\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+\\infch05411\GET_share_792\Training\C#\DAY 3\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+E:\CTS\DN016\Training\C#_Day5\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
