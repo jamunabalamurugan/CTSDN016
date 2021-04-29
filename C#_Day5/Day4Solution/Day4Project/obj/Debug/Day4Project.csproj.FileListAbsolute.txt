@@ -5,3 +5,10 @@ E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.csp
 E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.csproj.CoreCompileInputs.cache
 E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.exe
 E:\CTS\C#\Week3CSharp\C#_Day4\Day4Solution\Day2Project\obj\Debug\Day4Project.pdb
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\bin\Debug\Day4Project.exe.config
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\bin\Debug\Day4Project.exe
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\bin\Debug\Day4Project.pdb
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\obj\Debug\Day4Project.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\obj\Debug\Day4Project.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\obj\Debug\Day4Project.exe
+E:\CTS\DN016\Training\C#_Day5\Day4Solution\Day4Project\obj\Debug\Day4Project.pdb

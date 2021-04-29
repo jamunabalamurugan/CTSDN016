@@ -1,0 +1,14 @@
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.exe.config
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.pdb
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.pdb
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.exe.config
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.exe
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\bin\Debug\Day3Project.pdb
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.csprojAssemblyReference.cache
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.csproj.CoreCompileInputs.cache
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.exe
+E:\cts\C#\C#_Day3\Day3Solution\Day3Project\obj\Debug\Day3Project.pdb

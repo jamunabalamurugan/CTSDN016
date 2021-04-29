@@ -11,7 +11,12 @@ namespace InheritanceEg
         protected string OrganizationName;
         string City;
         protected int Orgid;
-       
+        public Organization()
+        {
+            OrganizationName = "NIIT";
+            City = "Delhi";
+            Console.WriteLine("Default Constructor of Base Class called");
+        }
         public Organization(string OrganizationName, string City)
         {
             this.OrganizationName = OrganizationName;
@@ -77,7 +82,7 @@ namespace InheritanceEg
     {
         static void Main()
         {
-            EmpPerformance employee = new EmpPerformance("LTI","Chennai","SASI",1);
+            EmpPerformance employee = new EmpPerformance("CTS","Chennai","KAVIN",1);
            
             employee.DisplayPerformance();
             Console.Read();

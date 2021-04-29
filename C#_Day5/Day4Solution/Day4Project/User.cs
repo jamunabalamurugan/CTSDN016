@@ -9,11 +9,25 @@ namespace Day4Project
     class User
     {
         public string Username { get; set; }
-        public string Password { get; set; }
+        private string password;
+        public string Password {
+            get {
+                string maskedPassword;
+
+                maskedPassword = "******";
+                return maskedPassword;
+            }
+            set { 
+                if(value.Length>6)
+                password = value;
+                else
+                    Console.WriteLine("Invalid Password");    
+                }
+        }
 
         public User()
         {
-            Username = "Kavin";
+            Username = "Kavin"; 
             Password = "newuser123";
             Console.WriteLine("Default constructor called");
         }

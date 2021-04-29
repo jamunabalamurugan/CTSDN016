@@ -1,0 +1,14 @@
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.exe.config
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.exe
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.pdb
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.exe
+F:\Jamuna\GET 855\C#\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.pdb
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.csprojAssemblyReference.cache
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.csproj.CoreCompileInputs.cache
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.exe
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\obj\Debug\StudentEg.pdb
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.exe.config
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.exe
+E:\CTS\C#\CSharp 2020\Get855\CSharp\Day3\StudentEg\StudentEg\bin\Debug\StudentEg.pdb

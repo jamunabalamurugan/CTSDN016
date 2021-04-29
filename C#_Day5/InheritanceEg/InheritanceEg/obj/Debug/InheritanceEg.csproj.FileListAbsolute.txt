@@ -12,3 +12,10 @@ D:\Training\C#\DAY 3\InheritanceEg\InheritanceEg\obj\Debug\InheritanceEg.csprojA
 \\infch05411\GET_share_792\Training\C#\DAY 3\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.exe.config
 \\infch05411\GET_share_792\Training\C#\DAY 3\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.exe
 \\infch05411\GET_share_792\Training\C#\DAY 3\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.pdb
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.exe.config
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.exe
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\bin\Debug\InheritanceEg.pdb
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\obj\Debug\InheritanceEg.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\obj\Debug\InheritanceEg.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\obj\Debug\InheritanceEg.exe
+E:\CTS\DN016\Training\C#_Day5\InheritanceEg\InheritanceEg\obj\Debug\InheritanceEg.pdb

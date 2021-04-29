@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>InheritanceEg.ArrayList_eg</StartupObject>
+    <StartupObject>InheritanceEg.SingleInheritanceEg</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

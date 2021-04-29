@@ -11,16 +11,17 @@ namespace Day4Project
         
         void UnderstandConstructors()
         {
-            User user1 = new User();
+            User user1 = new User();//Initializing an object
             user1.PrintUserData();
 
-            user1 = null;
+            user1 = null;//Remving the memory allocated
             GC.Collect();//Will call the destructor for user1
             User user2 = new User("Kanav", "1234");
             user2.PrintUserData();
             User user3 = new User();
             user3.TakeUserData();
             user3.PrintUserData();
+            GC.Collect();//Will call the destructor for user2 & 3
             Console.ReadKey();
         }
         void UnderstandingObjectArray()
@@ -45,8 +46,8 @@ namespace Day4Project
             // UnderstandingArray();
             // csf.UnderstandingMultidimArray();
             //csf.UnderstandingJaggedArray();
-            // csf.UnderstandingObjectArray();
-            csf.UnderstandConstructors();
+             csf.UnderstandingObjectArray();
+            //csf.UnderstandConstructors();
             Console.ReadKey();
         }
     }
