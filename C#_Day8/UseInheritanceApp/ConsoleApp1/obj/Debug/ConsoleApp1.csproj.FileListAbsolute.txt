@@ -1,0 +1,11 @@
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\InheritanceEg2.exe
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\InheritanceEg2.pdb
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\bin\Debug\InheritanceEg2.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\CTS\C#\Week3CSharp\C#_Day6\UseInheritanceApp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

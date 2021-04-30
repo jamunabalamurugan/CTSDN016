@@ -1,0 +1,22 @@
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.exe.config
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.exe
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.pdb
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.exe
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.pdb
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.exe.config
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csprojAssemblyReference.cache
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csproj.CopyComplete
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.exe
+D:\Training\CSharp\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.pdb
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.exe.config
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.exe
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\Trial.pdb
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.exe
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.pdb
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\bin\Debug\InheritanceEg2.exe.config
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csprojAssemblyReference.cache
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.csproj.CopyComplete
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.exe
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day 4\InheritanceEg2\Trial\obj\Debug\Trial.pdb

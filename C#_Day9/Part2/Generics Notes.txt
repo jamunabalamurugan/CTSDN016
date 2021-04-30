@@ -1,0 +1,10 @@
+Generics:
+makes it possible to defer the specification of data type until instantiation of the class or method. To implement this it uses type parameters.
+helps in code reuse and customization.
+reduces the need for boxing, unboxing, and type casting of variables or objects.
+
+
+Advantages of generics are:
+Reusability
+Type safety 
+Performance
