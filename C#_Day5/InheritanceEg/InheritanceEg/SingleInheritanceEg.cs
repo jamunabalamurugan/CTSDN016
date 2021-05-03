@@ -9,7 +9,7 @@ namespace InheritanceEg
     class Organization
     {
         protected string OrganizationName;
-        string City;
+        protected string City;
         protected int Orgid;
         public Organization()
         {
@@ -47,7 +47,7 @@ namespace InheritanceEg
         {
             DisplayOrganizationDetails();
             Orgid = 100;
-            Console.WriteLine("EmpName{0} && OrgName{1}", EmpName, OrganizationName);
+            Console.WriteLine("EmpName{0} && OrgName{1} City {2}", EmpName, OrganizationName,City);
         }
 
         ~Employee()

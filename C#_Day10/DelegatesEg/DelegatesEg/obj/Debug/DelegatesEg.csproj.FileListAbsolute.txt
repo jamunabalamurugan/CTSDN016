@@ -1,0 +1,21 @@
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe.config
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.pdb
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.exe
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.pdb
+F:\Jamuna\GET 855\C#\Day6\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.exe
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.pdb
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe
+E:\CTS\C#\Week3CSharp\C#_Day9\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.pdb
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe.config
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.exe
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\bin\Debug\DelegatesEg.pdb
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.exe
+E:\CTS\DN016\Training\C#_Day10\DelegatesEg\DelegatesEg\obj\Debug\DelegatesEg.pdb
