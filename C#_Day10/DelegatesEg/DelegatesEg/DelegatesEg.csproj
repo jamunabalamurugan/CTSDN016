@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DelegatesEg.ExampleLINQ</StartupObject>
+    <StartupObject>DelegatesEg.StudentProgram</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

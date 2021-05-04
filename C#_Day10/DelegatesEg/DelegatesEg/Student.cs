@@ -15,14 +15,35 @@ namespace DelegatesEg
             Id = id;
             Name = name;
         }
-        public  override string ToString()
+        public override string ToString()
         {
-            return Id + " : " + Name;
+            return "Student Details "+ Id+" : " + Name;
         }
 
         public int CompareTo(Student other)
         {
             return this.Name.CompareTo(other.Name);
+        }
+    }
+    class StudentProgram
+    {
+        public static void Main()
+        {
+            Student student1 = new Student(101,"Kavin");
+            Student student2 = new Student(101, "Kavin");
+
+            Console.WriteLine(student1);
+            Console.WriteLine(student2);
+            if(student1.Name==student2.Name && student1.Id==student2.Id)
+            {
+                Console.WriteLine("Both are equal");
+            }
+            else
+            {
+                Console.WriteLine("Bothe are not equal");
+            }
+            Console.ReadKey();
+
         }
     }
 }

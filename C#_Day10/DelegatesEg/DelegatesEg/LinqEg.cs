@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace DelegatesEg
 {
     //Languange Integrated Query
+    //https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq
     class ExampleLINQ
     {
         void UnderstandingLINQ()
