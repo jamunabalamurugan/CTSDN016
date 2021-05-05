@@ -1,0 +1,10 @@
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\bin\Debug\prjClient.exe.config
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\bin\Debug\prjClient.exe
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\bin\Debug\prjClient.pdb
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\bin\Debug\prjDLLDemo.dll
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\bin\Debug\prjDLLDemo.pdb
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\obj\Debug\prjClient.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\obj\Debug\prjClient.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\obj\Debug\prjClient.csproj.CopyComplete
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\obj\Debug\prjClient.exe
+E:\CTS\DN016\Training\C#_Day12\prjDLLDemo\prjClient\obj\Debug\prjClient.pdb
