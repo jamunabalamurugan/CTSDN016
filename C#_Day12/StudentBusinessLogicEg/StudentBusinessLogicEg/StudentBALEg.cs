@@ -57,7 +57,8 @@ namespace StudentBusinessLogicEg
         }
         public List<Student1> GetAllStudents()
         {
-            return Dalobj.GetStudents();
+            var result= Dalobj.GetStudents();
+            return result;
         }
 
     }
