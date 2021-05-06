@@ -1,0 +1,5 @@
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductDAL\bin\Debug\ProductDAL.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductDAL\bin\Debug\ProductDAL.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductDAL\obj\Debug\ProductDAL.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductDAL\obj\Debug\ProductDAL.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductDAL\obj\Debug\ProductDAL.pdb

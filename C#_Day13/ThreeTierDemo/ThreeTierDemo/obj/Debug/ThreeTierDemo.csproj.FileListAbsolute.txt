@@ -1,0 +1,12 @@
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ThreeTierDemo.exe.config
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ThreeTierDemo.exe
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ThreeTierDemo.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\obj\Debug\ThreeTierDemo.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\obj\Debug\ThreeTierDemo.exe
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\obj\Debug\ThreeTierDemo.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ProductBusinessLayer.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ProductDAL.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ProductBusinessLayer.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\bin\Debug\ProductDAL.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\obj\Debug\ThreeTierDemo.csproj.CopyComplete
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ThreeTierDemo\obj\Debug\ThreeTierDemo.csprojAssemblyReference.cache

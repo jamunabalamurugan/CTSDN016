@@ -1,0 +1,9 @@
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\bin\Debug\ProductBusinessLayer.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\bin\Debug\ProductBusinessLayer.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\bin\Debug\ProductDAL.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\bin\Debug\ProductDAL.pdb
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csproj.CopyComplete
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.dll
+E:\CTS\DN016\Training\C#_Day13\ThreeTierDemo\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.pdb
