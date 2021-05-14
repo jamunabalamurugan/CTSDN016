@@ -7,6 +7,10 @@ begin
 Select getdate() CurrentDate
 print 'Hello Todays Date is :'+ CONVERT(char(10),getdate(),1) 
 end
+
+execute ('set dateformat mdy '+'exec prcFirstexample')
+ execute('SET DATEFORMAT dmy'+ ' print getdate()')
+
 --With out check option
 create table Test (id int primary key,Name nvarchar(20),
 Age int,gender char not null )
@@ -102,14 +106,14 @@ sp_helptext vAge
 
 -----------TAX CALCULATOR--
 --If annualsalary>4,00000
-create proc prcTaxCalculator(@id int)
+alter proc prcTaxCalculator(@id int)
 as
 begin
 declare @Annualsalary int
 declare @Taxamount int
 
 set @Annualsalary = (select salary*12 from tblEmployeeInfo where id=@id)
-if(@Annualsalary>400000)
+if(@Annualsalary>200000)
    begin
    set @Taxamount=@Annualsalary*0.1
    print @Taxamount
@@ -121,7 +125,7 @@ else
 
 end
 
-exec prcTaxCalculator @id=1007
+exec prcTaxCalculator @id=1001
 select * from tblEmployeeInfo
 
 create proc prcdeptcount
@@ -154,18 +158,23 @@ sp_helptext prcoutparameter
 
 ---With output parameter
 --Give the Total count of Employees for a given Department
-create procedure prcoutparameter2(@did int ,@result int output)
+alter procedure prcoutparameter2(@did int ,@result int output,@result1 int output)
 as
 begin
 set @result=(select count(depid) from tblEmployeeInfo
 where depid=@did
 group by depid)
+
+set @result1=(select max(id) from tblEmployeeInfo
+where depid=@did
+group by depid)
 end
 
-Declare @Dcount int 
-exec prcoutparameter2 ,@Dcount output
+
+Declare @Dcount int , @Max int
+exec prcoutparameter2 3,@Dcount output,@Max output
 if(@Dcount>0)
-print 'Department has '+ ' '+cast(@Dcount as nvarchar(30))+' Employees'
+print 'Department has '+cast(@Dcount as nvarchar(30))+' Employees'+ ' With Max empno as '+ cast(@Max as nvarchar(30))
 else
 print 'Sorry!!!Department has no employees '
 
@@ -177,7 +186,7 @@ alter proc prcinsertPerformance(@id int,@rating float(2)) as
 begin
 if exists(Select * from tblEmployeeInfo where id=@id)
 	begin
-		--insert tblPerformance values(@id,@rating)
+		insert tblPerformance values(@id,@rating)
 		update tblperformance
 		set rating=@rating
 		where id=@id

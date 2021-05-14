@@ -107,17 +107,15 @@ grant update on myproducts to public
 grant delete on myproducts to public
 grant insert on myproducts to public
 
-create view MyProducts as
-select productid,productname,unitprice from products
+alter view MyProducts as
+select productid,productname,unitprice from products where Discontinued=0
 
 select * from myproducts
-
-
 select * from products
 
 
-update products set unitprice=21 where productid=1
-update myproducts set unitprice=25 where productid=1
+update products set unitprice=21 where productid=5
+update myproducts set unitprice=45 where productid=5
 
 insert myproducts values('Sevenup',45)
 
@@ -313,6 +311,7 @@ end
 begin
 declare @myname varchar(30)
 set @myname='Kanav'
+select @myname
 select * from tblstudent where name=@myname
 end
 
@@ -323,7 +322,7 @@ set @myname=user_name()
 if @myname<>'dbo'
     print 'must be system admin or valid user'
 else
-	select * from tblstudent
+	select * from products
 end
 
 --While Expression
@@ -344,7 +343,7 @@ end
 
 --Eg1
 select productid,unitsinstock,unitsonorder,'Product Status'=
-case when(discontinued=1) then 'This product is in Use'
+case when(discontinued=0) then 'This product is in Use'
 else '****This product is discontinued***' end
 from products
 
@@ -372,7 +371,18 @@ select productname,UnitsinStock,case
 from products
 end
 
+stockstatus
+
 execute stockstatus with recompile
+
+sp_helptext stockstatus
+
+sp_help
+select * from customers
+custordersdetail 10248
+CustOrdersOrders 'ANTON'
+
+SalesByCategory 'Beverages','1997'
 
 alter table products add totalsales money
 
@@ -392,6 +402,18 @@ execute ('set nocount on' + ' select * from products' +
 ' set nocount off')
  
 
+
+
+ select getdate()
+ set dateformat DMY
+ select  getdate()
+
+ execute('SET DATEFORMAT mdy'+ ' select getdate()')
+
+ SET DATEFORMAT mdy
+GO
+
+
 declare @dbname varchar(30),@tablename varchar(30)
 set @dbname='dbaDOExample'
 set @tablename='tblStudent'
@@ -401,6 +423,9 @@ use dbAdoExample
 select * from tblStudent
 
 select * from products
+
+
+select  * from shippers
 
 --Performance
 --Speed of Search and Results which is relevant

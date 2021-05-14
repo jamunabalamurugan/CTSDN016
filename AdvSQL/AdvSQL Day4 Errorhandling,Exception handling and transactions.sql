@@ -211,7 +211,7 @@ exec @deptcount=prcdeptcount
 print 'Department count is'+' '+cast( @deptcount as nvarchar(30))
 
 ---below will raise an error since we trying to return string
-create proc prcdeptname
+create proc prcdeptname()
 as
 begin
 return(select Deptname from tblDepartment where Deptid=14)
@@ -220,6 +220,39 @@ end
 exec prcdeptname
 
 
+
+
+---With output parameter
+create procedure prcoutparameter2(@did int ,@result int output)
+as
+begin
+set @result=(select Name from tblDepartment
+where depid=@did )
+
+end
+
+Declare @Dcount int 
+exec prcoutparameter2 1,@Dcount output
+if(@Dcount>0)
+print 'Department has '+ ' '+cast(@Dcount as nvarchar(30))
+else
+print 'Department has '+ ' '+cast(@Dcount as nvarchar(30))
+--Drop 
+drop procedure Procedure_Name
+
+--calling stored procedure from another stored procedure
+alter proc spu_callingProcedure(@id int,@r float(2))
+as
+begin
+
+exec prcDisplayname 'Sai'
+exec prcEmployeedetails
+exec prcinsertPerformance @id,@r
+End
+
+exec spu_callingProcedure 1009,5
+
+select * from tblPerformance
 BEGIN TRY
   DECLARE @result INT
 --Generate divide-by-zero error
@@ -256,7 +289,7 @@ begin
 end
 else
 begin
-	update tblEmployeeInfo set Salary=Salary+name where id=@id
+	update tblEmployeeInfo set Salary=Salary+100 where id=@id
 end
 End try
 begin catch
@@ -269,41 +302,9 @@ End
 select host_id(),HOST_NAME(),SUSER_NAME(),db_name()
 
 
-exec prcErrorHandling 1004
+exec prcErrorHandling 1005
 select @@ERROR
 select * from tblEmployeeInfo
----With output parameter
-create procedure prcoutparameter2(@did int ,@result int output)
-as
-begin
-set @result=(select Name from tblDepartment
-where depid=@did )
-
-end
-
-Declare @Dcount int 
-exec prcoutparameter2 1,@Dcount output
-if(@Dcount>0)
-print 'Department has '+ ' '+cast(@Dcount as nvarchar(30))
-else
-print 'Department has '+ ' '+cast(@Dcount as nvarchar(30))
---Drop 
-drop procedure Procedure_Name
-
---calling stored procedure from another stored procedure
-alter proc spu_callingProcedure(@id int,@r float(2))
-as
-begin
-
-exec prcDisplayname 'Sai'
-exec prcEmployeedetails
-exec prcinsertPerformance @id,@r
-End
-
-exec spu_callingProcedure 1009,5
-
-select * from tblPerformance
-
 
 --StyleValues of the Date Format
 --Compare the style values and observe that when the styles used 
