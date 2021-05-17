@@ -57,6 +57,7 @@ RETURN (
 go
 After creating the function, calling the function with specified argument.
 SELECT * FROM fx_Department_GName('Manufacturing')
+
 Example: (multistatement table-valued function)
 CREATE FUNCTION PayRate (@rate money) 
 RETURNS @table TABLE 
@@ -74,6 +75,9 @@ WHERE Rate > @rate
 RETURN 
 END 
 Select * from PayRate(45)
+
+
+
  	Problem Statement:
  	As a database developer ,you need to create a function that accepts the employee ID of an employee and returns the following details:
  	Employee ID
@@ -81,6 +85,9 @@ Select * from PayRate(45)
  	Title of the employee
  	Number of other employees working under the employee
 	How will you create the function?
+
+
+Stored Procedure Vs Functions to be understood
 
  	A stored procedure is a collection of various T-SQL statements that are stored under one name and are executed as a single unit.
  	A stored procedure can be created using the CREATE PROCEDURE statement.
@@ -128,7 +135,7 @@ Select * from PayRate(45)
    } 
  	Create two temporary tables called magic tables
 	Let’s see how…
-In this slide, you need to explain creating triggers to the students.
+
 Example:
 CREATE TRIGGER [HumanResources].[trgDepartment] ON [HumanResources].[Department] 
 AFTER UPDATE AS
@@ -138,8 +145,7 @@ BEGIN
     FROM inserted
     WHERE inserted.[DepartmentID] = [HumanResources].[Department].[DepartmentID];
 END;
-CG NOTE: For demonstration of this example, you can use the create_trDepartment.sql file from the Datafiles_for_faculty\Chapter 8 folder in the TIRM CD. In this file, you will find the code to create the trigger as well as to create the trgMagic trigger and the update statement to verify the trigger. 
-FAQ:
+
 Q: When does a trigger get executed?
 After a DML (update, insert, or delete) transaction. 
 Q: If there exists a trigger and a rule, which will get executed first?
@@ -162,7 +168,7 @@ To enable recursive triggers for a particular database, issue the following comm
  	Syntax:
 DROP TRIGGER { trigger } 
 	Let’s see how…
-In this slide, you need to explain managing the triggers to the students. State that managing trigger includes altering the trigger and deleting a trigger.
+ Managing trigger includes altering the trigger and deleting a trigger.
 Example:
 ALTER TRIGGER HumanResources.trgInsertShift
 ON HumanResources.Shift
@@ -176,7 +182,7 @@ RAISERROR (’The modified date is not the current date. The transaction cannot 
 		ROLLBACK TRANSACTION
 	END
      RETURN 
-CG Input: For demonstration use the alter_trgInsertShift.sql file in the datafiles_for_faculty\chapter 8 folder in the TIRM CD. 
+
 Example:
 DROP TRIGGER HumanResources.trgMagic
 Create view vwEmployee as
@@ -206,7 +212,9 @@ on i.AddressID = j.AddressID
  	Explicit Transactions:
  	Can be created using the BEGIN TRANSACTION and COMMIT TRANSACTION statements
 	Let’s see how…
-In this slide, you need to explain the concept of transactions to the students. In addition, also explain the ACID properties of a transaction.
+
+ACID properties of a transaction.
+
 BEGIN TRAN myTran
 SELECT * FROM HumanResources.Department
 COMMIT TRAN myTran 
@@ -216,13 +224,13 @@ In the implicit mode the following statements trigger off a transaction: ALTER T
 The number of open transactions per connection is stored in the system variable @@TRANCOUNT. Every new transaction i.e. every BEGIN TRANSACTION increments the value of this system variable by one and every COMMIT TRANSACTION or ROLLBACK TRANSACTION decrements the value by one. In the implicit mode, every issue of the above mentioned commands automatically generates a BEGIN TRANSACTION.
 Experiences:
 Transaction
-Stress on the fact that a transaction is an atomic unit of work, which either happens completely or does not happen at all. If an insert operation in one table and two update operations in two different tables constitute a logical unit of work, then the three operations can be termed as a transaction. If only one insert happens and the other two updates do not happen, the transaction is not complete and may result in inconsistency of data. Hence, it is essential that all the operations happen or none of them happens at all. Explicit statements like BEGIN TRANSACTION and COMMIT TRANSACTION ensure that all statements in a transaction are completed successfully or do not take place at all in case there is a system crash while the transaction is running. 
+Transaction is an atomic unit of work, which either happens completely or does not happen at all. If an insert operation in one table and two update operations in two different tables constitute a logical unit of work, then the three operations can be termed as a transaction. If only one insert happens and the other two updates do not happen, the transaction is not complete and may result in inconsistency of data. Hence, it is essential that all the operations happen or none of them happens at all. Explicit statements like BEGIN TRANSACTION and COMMIT TRANSACTION ensure that all statements in a transaction are completed successfully or do not take place at all in case there is a system crash while the transaction is running. 
 By default SQL Server uses a row level lock.
-Tell the students that the transactions should be as short as possible, and table level locks should be avoided as this locks the entire table.
+Transactions should be as short as possible, and table level locks should be avoided as this locks the entire table.
 If multiple transactions refer to the same tables, then refer them in a specific order to minimize deadlocks.
 While creating a transaction, follow the naming conventions. Prefix the transaction name with a ‘trn’.
 Transaction Log
-Tell the students that the transaction log is like a huge ‘security register’ where any activity on the database gets recorded. The log is used to roll forward or rollback transactions in case of a system failure. Tell them that the transaction log plays a big role in transaction management.
+Transaction log is like a huge ‘security register’ where any activity on the database gets recorded. The log is used to roll forward or rollback transactions in case of a system failure. Tell them that the transaction log plays a big role in transaction management.
 Transaction Modes
 There are two types of transaction modes, explicit and implicit. The default is implicit, this can be changed by using BEGIN TRANSACTION, COMMIT TRANSACTION, COMMIT WORK, ROLLBACK TRANSACTION, and ROLLBACK WORK.
 SAVE TRANSACTION can be used to save transactions to a certain point. Tell the students when SAVE TRANSACTION is used, and if we rollback a transaction then the transaction rolls back only up till the save point.
@@ -240,7 +248,9 @@ ROLLBACK [TRAN[SACTION] [transaction_name
 |savepoint_name |
 @savepoint_variable]]
 	Let’s see how…
-In this slide, you need to explain to revert the changes done by a transaction to the students.
+
+To revert the changes done by a transaction to the students.
+
 Example:
 BEGIN TRANSACTION TR
 BEGIN TRY
@@ -273,7 +283,7 @@ END CATCH
  	Intent locks
  	Schema locks
  	Bulk update locks
- 	In this slide, you need to explain transactional integrity, problems that occur due to transactional integrity, and implementing transactional integrity in your transactions. In addition, you also need to talk about 
+ 	Transactional integrity....problems that occur due to transactional integrity, and implementing transactional integrity in your transactions. In addition, you also need to talk about 
  	Concurrency Problems 
  	Find below the examples for each of the concurrency problems:
  	Lost updates 
@@ -293,20 +303,23 @@ END CATCH
  	You are accessing online catalog of a book store. You found a book name “You can win” in your initial search where you are looking for titles having “win” in their title name. But subsequent search of the same query did not show “You can win” in the output. The reason can be that some procedure might have deleted the title from the table.  
  	Note: Though these scenarios will help you to explain the concept, please clarify to the students that these situations occur in remote multi-user environment. They will not find similar scenario while working in the MR.
  	LOCKS
- 	Discuss the types of locks in detail. Also, discuss when each of these locks are used by SQL Server.
+
+ Types of locks 
+
  	SQL Server uses row lock by default.
- 	The concept of deadlock needs to be explained to the students.
- 	Tell the students that if the deadlock priority is set low for a transaction, then the transaction has a higher probability of becoming the deadlock victim in a deadlock situation.
+ 	The concept of deadlock needs to be understood.
+ 	If the deadlock priority is set low for a transaction, then the transaction has a higher probability of becoming the deadlock victim in a deadlock situation.
  	Mention that lock_timeout is used on a transaction if you do not want a transaction to wait for an indefinite period. Using lock_timeout you can mention in milliseconds how long a transaction will wait for a lock to open.
- 	Tell the students that whenever an ad hoc DML statement is executed, SQL Server, by default, treats the statement as a transaction and commits the transaction. This mode is called the auto commit mode. 
- 	Tell the students that although SQL Server 2000 uses dynamic locking, it is still very important for you to differentiate between the different locking modes. The different types of locks used by SQL Server 2000 are shared, update, exclusive, intent, schema, and bulk-update.
+ 	Whenever an ad hoc DML statement is executed, SQL Server, by default, treats the statement as a transaction and commits the transaction. This mode is called the auto commit mode. 
+ 	Although SQL Server 2000 uses dynamic locking, it is still very important for you to differentiate between the different locking modes. The different types of locks used by SQL Server 2000 are shared, update, exclusive, intent, schema, and bulk-update.
  	Locking is controlled by the following types of isolation levels:
  	READ UNCOMMITTED
  	READ COMMITED
  	REPEATABLE READ
  	SNAPSHOT
  	SERIALIZABLE
- 	In this slide, you need to explain the concept of Isolation Level. 
+ 	
+Isolation Level. 
  	Example:
  	SET TRANSACTION ISOLATION LEVEL
  	READ COMMITTED

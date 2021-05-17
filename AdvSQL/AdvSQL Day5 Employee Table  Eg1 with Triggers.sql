@@ -76,7 +76,7 @@ select max(sal) from emp where deptno=10
 
 
 begin transaction tr1
-sp_helpindex employees
+
 update emp set sal=sal+(sal*10/100) where deptno=10
 if(select max(sal) from emp where deptno=10)>7500
 begin
@@ -220,6 +220,7 @@ end
 else
 print 'Best of Luck in your new organization'
 end
+
 insert into employees values('1005','Kanav','Kumar','kanav@gmail.com',null,'01/01/2018','IT',10000,10,null,1)
 delete employees where employee_id='1005'
 
@@ -234,10 +235,13 @@ create trigger
  
  sp_helpindex employees
 
+ create index indCustomerCity on employees(city)
+
+
  -- Trigger can only do this automatically
  --Update the qytonhand in products table wheneever a order is placed
 
- alter trigger trgorderinsert
+ create trigger trgorderinsert
  on [order details]
  for insert
  as
@@ -262,7 +266,8 @@ create trigger
 	end
  end
 
- insert [order details] values(10252,3,18,60,0)
+ insert [order details] values(10525,3,18,6,0)
+ select * from products where ProductID=3
  select * from [order details] where productid=3
 
 
