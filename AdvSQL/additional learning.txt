@@ -41,7 +41,8 @@ PRINT @PayRate
  	Inline table-valued function
  	Multistatement table-valued function
 	Let’s see how…
-In this slide, you need to explain the students about Table-Value Functions. 
+
+ Table-Value Functions. 
 Example: (inline table-valued function)
 USE AdventureWorks
 go
@@ -85,6 +86,15 @@ Select * from PayRate(45)
  	Title of the employee
  	Number of other employees working under the employee
 	How will you create the function?
+
+alter function GetEmployee(@id int)
+returns table
+as
+ return (select e1.Employeeid,e1.FirstName,e1.lastname,e1.title,count(e2.reportsto) CountOfTeamMembers
+ from employees e1 join employees e2
+ on e1.employeeid=e2.ReportsTo
+ where e2.reportsto=@id
+ group by e1.employeeid,e1.FirstName,e1.lastname,e1.title)
 
 
 Stored Procedure Vs Functions to be understood

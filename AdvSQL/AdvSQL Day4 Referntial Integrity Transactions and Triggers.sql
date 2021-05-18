@@ -81,11 +81,11 @@ END CATCH
 
 set implicit_transactions on
 select @@TRANCOUNT
-
+select @@VERSION
 
 -------Trigger---------
 -- when an DML action is performed which in turn can lead
-to calling a procedure automatically
+--to calling a procedure automatically
 --special sp that is executed whenever a data modification takes place
 
 --differ from stored procedure...a sp can be explicitly by a users
@@ -108,21 +108,26 @@ print 'Insert operation is not allowed!! '
 End
 
 -----------Ex1
-alter TRIGGER tr_Insertdept 
+create TRIGGER tr_Insertdept
 ON tbldepartment
 FOR INSERT
 AS
 BEGIN
+if(select count(*) from inserted)>1
+begin
   PRINT 'YOU CANNOT PERFORM INSERT OPERATION'
   Rollback transaction
-  
+end
 END
 
 --insert 
 select * from tblDepartment
-insert into tblDepartment values('CSE')
+insert into tblDepartment
+values(8,'BTECH'),
+(7,'EEE'),(9,'ECE')
 
 --drop trigger trigger_Name
+drop trigger tr_Insertdept 
 
 ---Insert Ex2
 create table P_desc(Eid int,Description nvarchar(40)
