@@ -1,0 +1,12 @@
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\DbFirstEg.exe.config
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\DbFirstEg.exe
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\DbFirstEg.pdb
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\EntityFramework.dll
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\EntityFramework.xml
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\obj\Debug\DbFirstEg.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\obj\Debug\DbFirstEg.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\obj\Debug\DbFirstEg.csproj.CopyComplete
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\obj\Debug\DbFirstEg.exe
+E:\CTS\DN016\Training\EntityFramework\DbFirstEg\DbFirstEg\obj\Debug\DbFirstEg.pdb
