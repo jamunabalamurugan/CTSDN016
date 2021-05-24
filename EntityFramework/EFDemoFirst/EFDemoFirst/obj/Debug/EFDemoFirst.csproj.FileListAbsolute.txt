@@ -1,0 +1,12 @@
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.exe.config
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.exe
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EFDemoFirst.pdb
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.dll
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.xml
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csprojAssemblyReference.cache
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csproj.CoreCompileInputs.cache
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.csproj.CopyComplete
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.exe
+E:\DXE\Training\EFDemoFirst\EFDemoFirst\obj\Debug\EFDemoFirst.pdb

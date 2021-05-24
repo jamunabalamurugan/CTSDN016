@@ -1,0 +1,355 @@
+BookEntry_FluentAPI
+Scenario:
+
+Fluent Book Store maintains various Books and its details.
+
+They would like to create a software application to store the details of the Books they have in their Library.
+
+Help them to create an application to store the details in the database.
+
+Using C# and Entity Framework Fluent API approach, .
+
+ 
+
+Functionalities:
+
+Add Book details to the database.
+Retrieve the entire list of Books and its details.
+Retrieve the Book details based on Genre they belong.
+Update the Book Price by their BookId.
+Delete the Book in the database by their BookId.
+ 
+
+The application contains the following classes,
+
+ 
+
+1)      Create a class Book with the mentioned properties. 
+
+Class
+
+Properties
+
+Book
+
+public int BookId
+
+public String BookName
+
+public String BookAuthor
+
+public String BookGenre
+
+public double BookPrice
+
+ 
+
+2)      Create a class called LibraryContext that implements DbContext.
+
+Class
+
+Properties
+
+LibraryContext
+
+DbSet< Book > Books
+
+ 
+
+ 
+
+Book details should be saved to the BookDetail table in BookStore Database.
+BookId Property of Book Object should be mapped to Book_Id column of BookDetail table.
+ 
+
+App.config snippet:
+
+<connectionStrings>
+    <add name="BookConnectionString" 
+        connectionString=xxxxxx xxxxxx xxxxx xxxxxx xxxxxx />
+  </connectionStrings>
+
+Use the connection string in your context
+
+ 
+
+3 .class BookUtil // class which contains the functions to Add and retrieve the details of Book.
+
+The following methods should be inside the BookUtil class,
+
+public Book AddBook(Book book)
+
+This method should insert the book details to the database and return the Book object.
+
+public List<Book> GetBooksList()
+
+This method should return the list of all the Books in the store.
+
+public List<Book> GetBookByGenre(String Genre)
+
+This method should retrieve the books based on the genre passed as input.
+
+public Book UpdateBookPrice(int NewPrice,int Bookid)
+
+This method should update BookPrice by the given BookId and price to the database.
+
+public Book DeleteBook(int BookId)
+
+This method removes the book entry from the database by the id passed and return the deleted book object.
+
+ 
+
+ 
+
+ 
+
+4)      class Program // contains the Main method. 'Main' method is NOT tested.
+
+ *Note: Don't change the given code Skeleton.
+
+
+Sample Input/output:
+
+Enter Book Name
+HarryPotter
+
+Enter Book Author
+
+JK Rowling
+
+Enter Book Genre
+
+Fantasy
+
+Enter Book Price
+
+1000 
+
+Details Added Successfully         .
+
+ 
+
+Enter Book Name
+The Hobbit
+
+Enter Book Author
+
+JRR
+
+Enter Book Genre
+
+Adventure
+
+Enter Book Price
+
+1200
+
+Details Added Successfully         
+
+     
+
+Get Book Details By Genre
+
+Adventure
+
+The Hobbit—JRR
+
+ 
+
+Get Book List
+
+JK Rowling--1
+
+JRR--2
+
+
+
+
+
+
+
+
+----------------------Book.cs
+   //THIS IS FOR REFERENCE ONLY. YOU ARE NOT REQUIRED TO MAKE ANY CHANGES HERE
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercise1           //DO NOT Change the namespace name 
+{
+   public class Book //DO NOT Change the class name
+    {
+       public int BookId { get; set; }
+        public String BookName { get; set; }
+        public String BookAuthor { get; set; }
+        public String BookGenre { get; set; }
+        public double BookPrice { get; set; }
+
+    }
+}
+
+----------------------BookUtil.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercise1              //DO NOT change the namespace name
+{
+    public class BookUtil         //DO NOT change the class name 
+    {
+        LibraryContext db=new LibraryContext(); 
+        public Book AddBook(Book book)    //DO NOT change the method Name and Signature
+        {
+            //Implement code to insert the book entity to database
+            
+            db.Books.Add(book);
+            db.SaveChanges();
+            Console.WriteLine("Details Added Successfully");
+            return book;
+           
+        }
+
+
+        public List<Book> GetBookByGenre(string Genre)   //DO NOT change the method Name and Signature
+        {
+            //Implement code to get the book entity from database based on Genre
+               string g=Genre;
+               List<Book> blist= db.Books.Where(book=> book.BookGenre==g).ToList();
+               if(blist!=null)
+                    return blist;
+                return null;
+        }
+        
+        public List<Book> GetBooksList() //DO NOT change the method Name and Signature
+        {
+             //Implement code to get the book list from database
+             return db.Books.ToList();
+        }
+        public Book UpdateBookPrice(int NewPrice,int Bookid)   //DO NOT change the method Name and Signature
+        {
+             //Implement code to update the book entity 
+             Book obj=db.Books.Find(Bookid);
+             if(obj!=null)
+             {
+                 obj.BookPrice=NewPrice;
+                // db.Entry(obj).State=EntityState.Modified;
+                 db.SaveChanges();
+                 return obj;
+                 
+             }
+             return null;
+        }
+
+        public Book DeleteBook(int BookId)  //DO NOT change the method Name and Signature
+        {
+            //Implement code to delete the book entity by Id
+            Book obj=db.Books.Find(BookId);
+            if(obj!=null)
+            {
+                db.Books.Remove(obj);
+                db.SaveChanges();
+                return obj;
+            }
+            
+            return null;
+        }
+
+    }
+}
+  
+
+-----------LibraryContext.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.Entity;
+
+namespace Exercise1                      //DO NOT change the namespace name
+{
+    class LibraryContext:DbContext        //DO NOT change the class name
+    {
+
+        //DO NOT change the context name
+        public LibraryContext() : base("name=BookStore")
+        {
+
+           
+        }
+       
+       
+        //Implement Books of type DbSet
+         public DbSet<Book> Books {get; set;}
+                protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //Implement code to make 'Book_id' required in entity 'Book' and table name as mentioned in description 
+            modelBuilder.Entity<Book>().ToTable("BookDetails");
+            modelBuilder.Entity<Book>().HasKey(b=>b.BookId);
+            modelBuilder.Entity<Book>().Property(b => b.BookId).HasColumnName("Book_id").IsRequired();
+            
+        }
+    }
+}
+---------------------Program.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercise1   //DO NOT change the namespace name
+{
+    public class Program   //DO NOT change the class name
+    {
+        static void Main(string[] args)      //DO NOT change the 'Main' method signature
+        {
+            //Implement code here
+            Book book=new Book();
+            Console.WriteLine("Enter Book Name");
+            book.BookName=Console.ReadLine();
+            Console.WriteLine("Enter Book Author");
+            book.BookAuthor=Console.ReadLine();
+            Console.WriteLine("Enter Book Genre");
+            book.BookGenre=Console.ReadLine();
+            Console.WriteLine("Enter Book Price");
+            book.BookPrice=double.Parse(Console.ReadLine());
+            
+            BookUtil bUtil=new BookUtil();
+            bUtil.AddBook(book);
+            
+            Book book1=new Book();
+            Console.WriteLine("Enter Book Name");
+            book.BookName=Console.ReadLine();
+            Console.WriteLine("Enter Book Author");
+            book.BookAuthor=Console.ReadLine();
+            Console.WriteLine("Enter Book Genre");
+            book.BookGenre=Console.ReadLine();
+            Console.WriteLine("Enter Book Price");
+            book.BookPrice=double.Parse(Console.ReadLine());
+            
+            bUtil.AddBook(book1);
+            
+            
+            Console.WriteLine("Get Book Details By Genre");
+            string Genre=Console.ReadLine();
+            var books=bUtil.GetBookByGenre(Genre);
+            //bUtil.GetBookByGenre(Genre);
+            foreach(var item in books)
+            {
+                Console.WriteLine(item.BookName+"-"+item.BookAuthor);
+            }
+            
+            Console.WriteLine("Get Book List");
+            int count=1;
+            foreach(var item in bUtil.GetBooksList())
+            {
+                Console.WriteLine(item.BookAuthor+"--"+(count++));
+            }
+        }
+    }
+}

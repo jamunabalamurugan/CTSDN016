@@ -1,0 +1,213 @@
+StudentDetails Using CodeFirst
+
+
+Scenario:
+
+AVC College needs a software application to maintain the details of students in a database.
+
+Requirement is to create a C# application using Entity Framework Code -First approach to store the details of students in SQL SERVER database. 
+
+Functionalities:
+
+a)      Add the Student details to database.
+
+ 
+1)      Create a class Student with the mentioned properties. 
+
+Class
+
+Properties
+
+Student
+
+public int StudentId
+
+public String StudentName
+
+public DateTime EnrolledDate
+
+public String Department
+
+public long PhoneNumber
+
+ 
+
+2)      Create a class called CollegeContext that implements DbContext.
+
+Class
+
+Properties
+
+CollegeContext
+
+DbSet<Student> Students
+
+ 
+
+ 
+
+ 
+
+App.config snippet:
+
+<connectionStrings>
+    <add name="StudentConnectionString"
+        connectionString=xxxxxx xxxxxx xxxxx xxxxxx xxxxxx />
+  </connectionStrings>
+
+Use the connection string in your context
+
+ 
+
+3)      Class Program
+
+Method Name
+
+Argument
+
+Return Type
+
+AddStudent
+
+Student
+
+void
+
+Main
+
+string[]
+
+void
+
+ 
+
+ 
+
+ 
+
+ 
+
+        a) In Main method,
+
+ .          Create a student object with values.
+
+b)      Using “AddStudent” method,
+
+Store the student details into the database using the ‘CollegeContext’
+
+      
+
+Sample Input/output:
+
+Enter Student Id
+
+1001
+
+Enter Student Name
+
+Grace
+
+Enter Department
+
+ECE
+
+Enter Enrollment Date
+
+25-12-2018
+
+Enter PhoneNumber
+
+8798654534
+
+ 
+
+Details Added Successfully         .
+
+------------Student.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StudentManagement   //DO NOT Change the namespace name
+{
+    public class Student     //DO NOT Change the class name
+    {
+       //Create the properties
+       public int StudentId { get; set;}
+       public string StudentName {get; set;}
+       public DateTime EnrolledDate {get; set;}
+       public string Department {get; set;}
+       public long PhoneNumber {get; set;}
+    }
+}
+
+---------------CollegeContext.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.Entity;
+
+namespace StudentManagement      //DO NOT Change the namespace name
+{
+    public class CollegeContext: DbContext      //DO NOT Change the class name
+    {
+        //DO NOT Change the Context name 'StudentConnectionString'
+        public CollegeContext() : base("name=StudentConnectionString"){}
+        
+        //Declare 'Students' Property of type Dbset with neccessary declaration code.
+        public DbSet<Student> Students {get; set;}
+        
+       
+
+    }
+}
+
+--------------------Program.cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace StudentManagement               //DO NOT Change the namespace name
+{
+    public class Program              //DO NOT Change the class name
+    {
+        public static void Main(string[] args)
+        {
+            //Implement the code here
+            Program obj=new Program();
+            Student student1=new Student();
+            Console.WriteLine("Enter Student Id");
+            student1.StudentId=int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Student Name");
+            student1.StudentName=Console.ReadLine();
+            Console.WriteLine("Enter Enrolled Date");
+            student1.EnrolledDate=Convert.ToDateTime(Console.ReadLine());
+            Console.WriteLine("Enter Department ");
+            student1.Department=Console.ReadLine();
+            Console.WriteLine("Enter PhoneNumber");
+            student1.PhoneNumber=long.Parse(Console.ReadLine());
+            
+            obj.AddStudent(student1);
+            
+        }
+        
+        public void AddStudent(Student student){       //Do not change the method signature
+            
+            //Add the student details to database. 
+            CollegeContext db=new CollegeContext();
+            db.Students.Add(student);
+            db.SaveChanges();
+            Console.WriteLine("Details Added Successfully");
+        }
+    }
+}

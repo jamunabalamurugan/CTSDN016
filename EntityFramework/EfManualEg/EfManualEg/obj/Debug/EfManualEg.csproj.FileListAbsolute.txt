@@ -1,0 +1,24 @@
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EfManualEg.exe.config
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EfManualEg.exe
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EfManualEg.pdb
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EntityFramework.dll
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EntityFramework.SqlServer.dll
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EntityFramework.xml
+D:\RDBMS-G3\Specialization\EfManualEg\bin\Debug\EntityFramework.SqlServer.xml
+D:\RDBMS-G3\Specialization\EfManualEg\obj\Debug\EfManualEg.csprojAssemblyReference.cache
+D:\RDBMS-G3\Specialization\EfManualEg\obj\Debug\EfManualEg.csproj.CoreCompileInputs.cache
+D:\RDBMS-G3\Specialization\EfManualEg\obj\Debug\EfManualEg.csproj.CopyComplete
+D:\RDBMS-G3\Specialization\EfManualEg\obj\Debug\EfManualEg.exe
+D:\RDBMS-G3\Specialization\EfManualEg\obj\Debug\EfManualEg.pdb
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EfManualEg.exe.config
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EfManualEg.exe
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EfManualEg.pdb
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EntityFramework.dll
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EntityFramework.xml
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csprojAssemblyReference.cache
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csproj.CoreCompileInputs.cache
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csproj.CopyComplete
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.exe
+E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.pdb

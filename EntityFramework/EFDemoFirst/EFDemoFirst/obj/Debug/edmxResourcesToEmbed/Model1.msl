@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbHumanResourceModelStoreContainer" CdmEntityContainer="dbHumanResourceEntities">
+    <EntitySetMapping Name="tblDepartments">
+      <EntityTypeMapping TypeName="dbHumanResourceModel.tblDepartment">
+        <MappingFragment StoreEntitySet="tblDepartment">
+          <ScalarProperty Name="DepId" ColumnName="DepId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEmployeeInfoes">
+      <EntityTypeMapping TypeName="dbHumanResourceModel.tblEmployeeInfo">
+        <MappingFragment StoreEntitySet="tblEmployeeInfo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="DepId" ColumnName="DepId" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Hiredate" ColumnName="Hiredate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="prcdeptcount" FunctionName="dbHumanResourceModel.Store.prcdeptcount" />
+    <FunctionImportMapping FunctionImportName="prcDisplayname" FunctionName="dbHumanResourceModel.Store.prcDisplayname" />
+  </EntityContainerMapping>
+</Mapping>

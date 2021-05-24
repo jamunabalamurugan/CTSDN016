@@ -1,0 +1,12 @@
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EFwithLINQ.exe.config
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EFwithLINQ.exe
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EFwithLINQ.pdb
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EntityFramework.dll
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EntityFramework.xml
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\obj\Debug\EFwithLINQ.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\obj\Debug\EFwithLINQ.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\obj\Debug\EFwithLINQ.csproj.CopyComplete
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\obj\Debug\EFwithLINQ.exe
+E:\CTS\DN016\Training\EntityFramework\EFwithLINQ\EFwithLINQ\obj\Debug\EFwithLINQ.pdb

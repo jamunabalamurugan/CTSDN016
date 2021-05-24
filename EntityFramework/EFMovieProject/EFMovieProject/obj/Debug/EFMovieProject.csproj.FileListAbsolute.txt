@@ -1,0 +1,12 @@
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EFMovieProject.exe.config
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EFMovieProject.exe
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EFMovieProject.pdb
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EntityFramework.dll
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EntityFramework.xml
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\obj\Debug\EFMovieProject.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\obj\Debug\EFMovieProject.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\obj\Debug\EFMovieProject.csproj.CopyComplete
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\obj\Debug\EFMovieProject.exe
+E:\CTS\C#\Week3CSharp\Entity Framework\EFMovieProject\EFMovieProject\obj\Debug\EFMovieProject.pdb

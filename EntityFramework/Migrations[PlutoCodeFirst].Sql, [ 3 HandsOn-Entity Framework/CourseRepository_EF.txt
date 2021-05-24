@@ -1,0 +1,367 @@
+CourseRepository
+
+Scenario:
+
+MXZ Training solutions offers various training programs.
+They maintain their course details in  manual files.
+
+As they introduce new courses, and update existing course fee details  frequently, it's difficult for them to maintain manually. 
+
+They would like to create a software application to maintain the course details . 
+
+Help them to create a C# application to store details in SQLSERVER database and use entity framework to connect to the database and provides the following functionalities. 
+
+ 
+
+Functionalities:
+
+Add course details to the database.
+Retrieve the entire list of course details.
+Retrieve the specific course for the given course id.
+Update the course Fee.
+The application contains the following classes,
+
+ 
+
+1)      Create a class Course with the mentioned properties. 
+
+Class
+
+Properties
+
+Course
+
+public int CourseId
+
+public String CourseName
+
+public double CourseFee
+
+public int Duration
+
+public String InstructorName
+
+ 
+
+2)      Create a class called CourseContext that implements DbContext.
+
+Class
+
+Properties
+
+CourseContext
+
+DbSet< Course > Courses
+
+ 
+
+ Note : Please add 'virtual' (i.e) public virtual DbSet<Course>, as the code is tested using Mock when 'evaluate' is clicked.
+
+
+
+ 
+
+App.config snippet:
+
+<connectionStrings>
+    <add name="CourseConnectionString" 
+        connectionString=xxxxxx xxxxxx xxxxx xxxxxx xxxxxx />
+  </connectionStrings>
+
+Use the connection string in your context
+
+ 
+
+3 .class CourseRepository
+
+     Contains the functions to Add and retrieve the details of Course.
+
+The following methods should be inside the CourseRepository class,
+
+public IList<Course> GetCourseList()
+
+This method should return the list of all the courses along with their details.
+
+ 
+
+public Course GetCourseByID(int courseId)
+
+This method should return the specific course when the course id is passed .
+
+ 
+
+public void InsertCourse(Course course)
+
+This method should insert the given course to the database.
+
+ 
+
+public Course UpdateCourseFee(int id, double fee)
+
+This method should update the course fee for the given course id and return the updated course
+
+ 
+
+ 
+
+4)      class Program // contains the Main method.
+
+ 
+
+ *Note:
+
+Don't change the given code Skeleton.
+
+Do not include new namespaces.
+
+ 
+
+      
+
+Sample Input/output:
+
+Enter Course Id
+
+1001
+
+Enter Course Name
+
+Java Programming
+
+Enter Duration
+
+3
+
+Enter Course Fee
+
+6000
+
+Enter Instructor Name
+
+SAM 
+
+Details Added Successfully         .
+
+ 
+
+Enter Course Id
+
+1002
+
+Enter Course Name
+
+Dot Net
+
+Enter Duration
+
+4
+
+Enter Course Fee
+
+8000
+
+Enter Instructor Name
+
+SANDY
+
+Details Added Successfully         
+
+     
+
+Get Course Details By id
+
+1002
+
+Dot Net
+
+4
+
+8000
+
+SANDY
+
+ 
+
+Get Course List
+
+1001-Java Programming-3-6000-SAM
+
+1002-Dot Net – 4- 8000- SANDY
+
+ 
+
+Update Course Fee
+
+1001
+
+10000
+
+Updated Successfully
+
+
+
+
+
+-------------Program.cs
+     using System;
+     using System.Collections.Generic;
+     using System.Linq;
+     using System.Text;
+     using System.Threading.Tasks;
+     
+     namespace Exercise1       //DO NOT Change the namespace name
+     {
+         public class Program         //DO NOT Change the class name
+        {
+            static void Main(string[] args)
+            {
+                //Implement code here
+                
+                CourseContext context=new CourseContext();
+                CourseRepository obj=new CourseRepository(context);
+                Course course=new Course();
+                
+                Console.WriteLine("Enter Course Id");
+                course.CourseId=int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Course Name");
+                course.CourseName=Console.ReadLine();
+                Console.WriteLine("Enter Duration");
+                course.Duration=int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Course Fee");
+                course.CourseFee=double.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Instructor Name");
+                course.InstructorName=Console.ReadLine();
+             
+                obj.InsertCourse(course);
+                
+                Course course1=new Course();
+                Console.WriteLine("Enter Course Id");
+                course1.CourseId=int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Course Name");
+                course1.CourseName=Console.ReadLine();
+                Console.WriteLine("Enter Duration");
+                course1.Duration=int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Course Fee");
+                course1.CourseFee=double.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Instructor Name");
+                course1.InstructorName=Console.ReadLine();
+                
+                obj.InsertCourse(course1);
+                
+                Console.WriteLine("Get Course List");
+                foreach(var item in obj.GetCourseList())
+                {
+                    Console.WriteLine(item.CourseId+"-"+item.CourseName+"-"+item.Duration+"-"+item.CourseFee+"-"+item.InstructorName);
+                }
+                
+                Console.WriteLine("Update Course Fee");
+                int id=int.Parse(Console.ReadLine());
+                double fee=double.Parse(Console.ReadLine());
+                obj.UpdateCourseFee(id,fee);
+           }
+        }
+    }
+    
+-----------------Course.cs
+     //THIS CLASS IS FOR REFERENCE. YOU NEED NOT CHANGE
+     using System;
+     using System.Collections.Generic;
+     using System.Linq;
+     using System.Text;
+     using System.Threading.Tasks;
+     
+     namespace Exercise1   //DO NOT Change the namespace name
+     {
+      public  class Course   //DO NOT Change the class name
+        {
+            
+            public int CourseId { get; set; }
+            public String CourseName { get; set; }
+            public double CourseFee { get; set; }
+            public int Duration { get; set; }
+            public String InstructorName { get; set; }
+        }
+    }
+-------------------CourseRepository.cs
+     using System;
+     using System.Collections.Generic;
+     using System.Data.Entity;
+     using System.Linq;
+    
+     namespace Exercise1             //DO NOT Change the namespace name
+     {
+        public class CourseRepository      //DO NOT Change the class name
+         {
+            //DO NOT Change the variable or method signature. Add only the required code inside the method.
+            
+            private CourseContext context;
+            
+            public CourseRepository(CourseContext context)
+            {
+                //Implement code here
+               this.context=context;
+            }
+            
+            public IList<Course> GetCourseList()
+            {
+                //Implement code here
+                
+                return context.Courses.ToList();
+                
+            }
+    
+            public Course GetCourseByID(int courseId)
+            {
+                 //Implement code here
+                 Course c=context.Courses.Find(courseId);
+                 if(c!=null)
+                    return c;
+                 return null;
+            }
+    
+            public void InsertCourse(Course course)
+            {
+                 //Implement code here
+                 context.Courses.Add(course);
+                 context.SaveChanges();
+                 Console.WriteLine("Details Added Successfully");
+             }
+    
+            public Course UpdateCourseFee(int id, double fee)
+            {
+                 //Implement code here
+                 Course c=context.Courses.Find(id);
+                 if(c!=null)
+                 {
+                    c.CourseFee=fee;
+                    context.SaveChanges();
+                    Console.WriteLine("Updated Successfully");
+                    return c;
+                 }
+                 return null;
+                    
+            }
+        }
+    }
+    
+
+----------------CourseContext.cs---------------
+
+     using System;
+     using System.Collections.Generic;
+     using System.Linq;
+     using System.Text;
+     using System.Data.Entity;
+     
+     namespace Exercise1          //DO NOT Change the namespace name
+     {
+       public  class CourseContext:DbContext        //DO NOT Change the class name
+        {
+            //DO NOT Change the Context name 'CourseConnectionString'
+            public CourseContext() : base("name=CourseConnectionString"){}
+            
+            
+            //Declare 'Courses' of type Dbset and add neccessary declaration code.
+           public virtual DbSet<Course> Courses {get; set;}
+     }
+    }

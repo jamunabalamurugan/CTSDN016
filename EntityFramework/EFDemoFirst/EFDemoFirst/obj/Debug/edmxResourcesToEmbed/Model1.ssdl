@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbHumanResourceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblDepartment">
+    <Key>
+      <PropertyRef Name="DepId" />
+    </Key>
+    <Property Name="DepId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblEmployeeInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Location" Type="nvarchar" MaxLength="30" />
+    <Property Name="DepId" Type="int" />
+    <Property Name="age" Type="int" />
+    <Property Name="gender" Type="nvarchar" MaxLength="20" />
+    <Property Name="Salary" Type="money" />
+    <Property Name="Hiredate" Type="date" />
+  </EntityType>
+  <Association Name="FK__tblEmploy__DepId__38996AB5">
+    <End Role="tblDepartment" Type="Self.tblDepartment" Multiplicity="0..1" />
+    <End Role="tblEmployeeInfo" Type="Self.tblEmployeeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblDepartment">
+        <PropertyRef Name="DepId" />
+      </Principal>
+      <Dependent Role="tblEmployeeInfo">
+        <PropertyRef Name="DepId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="prcdeptcount" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="prcDisplayname" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="name" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="dbHumanResourceModelStoreContainer">
+    <EntitySet Name="tblDepartment" EntityType="Self.tblDepartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblEmployeeInfo" EntityType="Self.tblEmployeeInfo" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__tblEmploy__DepId__38996AB5" Association="Self.FK__tblEmploy__DepId__38996AB5">
+      <End Role="tblDepartment" EntitySet="tblDepartment" />
+      <End Role="tblEmployeeInfo" EntitySet="tblEmployeeInfo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

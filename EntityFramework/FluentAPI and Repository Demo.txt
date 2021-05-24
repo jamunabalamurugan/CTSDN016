@@ -1,0 +1,311 @@
+
+Fluent API
+-----------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_FluentAPI
+{
+    public class Course
+    {
+
+        public int CourseID { get; set; }
+        public string Title { get; set; }
+        public int Duration { get; set; }
+
+         public  virtual ICollection<Student> Students { get; set; }
+
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_FluentAPI
+{
+    public class Student
+    {
+
+        public int ID { get; set; }
+
+        public string Sname { get; set; }
+        public int Age { get; set; }
+        public string Grade { get; set; }
+        public string Std { get; set; }
+        //Navigation Property
+        public int CID { get; set; }
+        public Course Course { get; set; }
+
+    }
+}
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.Entity;
+
+namespace Demo_FluentAPI
+{
+    class CollegeContext:DbContext
+    {
+        public CollegeContext():base("myConn")
+        {
+
+            Database.SetInitializer<CollegeContext>(new CreateDatabaseIfNotExists<CollegeContext>());
+        }
+
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //Write Fluent API configurations here
+
+            //Configure default schema
+            modelBuilder.HasDefaultSchema("MyUser");
+            // Map entity to table
+            modelBuilder.Entity<Student>().ToTable("StudentInfo","MyUser");
+            //Map entity to table
+            modelBuilder.Entity<Course>().Map(sd => {
+                sd.Properties(p => new { p.CourseID, p.Title });
+                sd.ToTable("CourseData", "MyUser");
+            })
+
+   .Map(si => {
+       si.Properties(p => new { p.CourseID, p.Duration });
+       si.ToTable("CourseDetails", "MyUser");
+   });
+		[Key]
+            //primary key
+            modelBuilder.Entity<Student>().HasKey<int>(e => e.ID);
+            modelBuilder.Entity<Course>().HasKey<int>(e => e.CourseID);
+            //property mapping
+            modelBuilder.Entity<Student>().Property(p => p.Grade)
+                .HasColumnName("StudentGrade").HasColumnOrder(5).IsOptional()
+                .IsVariableLength().HasMaxLength(5);
+            modelBuilder.Entity<Student>().Property(p => p.Sname).IsRequired();
+            //foreign key
+            modelBuilder.Entity<Student>().HasRequired<Course>(s => s.Course)
+   .WithMany(t => t.Students).HasForeignKey(u => u.CID);
+
+
+
+
+        }
+
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_FluentAPI
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            CollegeContext db = new CollegeContext();
+            Course c = new Course();
+            c.Title = "BTech";
+            c.Duration = 4;
+            db.Courses.Add(c);
+            db.SaveChanges();
+                foreach(var x in db.Courses)
+            {
+                Console.WriteLine(x.CourseID + " " + x.Title + " " + x.Duration);
+                Console.WriteLine("Success");
+                Console.ReadLine();
+            }
+        }
+    }
+}
+
+
+
+Repository
+----------
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_Repository
+{
+    interface ICustomerRepository
+    {
+        IEnumerable<Customer> GetCustomers();
+        Customer GetCustomerByID(int customerId);
+        void InsertCustomer(Customer customer);
+        void DeleteCustomer(int customerId);
+        void UpdateCustomer(Customer customer);
+        void Save();
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+namespace Demo_Repository
+{
+    public class Customer
+    {
+        public string Name { get; set; }
+        [Key]
+        public int Id { get; set; }
+        public string PhoneNo { get; set; }
+        public string Address { get; set; }
+        public double Amt { get; set; }
+        public Customer() { }
+        public Customer(int id, string name, string phoneNo, string address, double amt)
+        {
+            this.Id = id;
+            this.Name = name;
+            this.PhoneNo = phoneNo;
+            this.Address = address;
+            this.Amt = amt;
+        }
+        public override string ToString()
+        {
+            return this.Id+" "+this.Name+" "+this.PhoneNo+" "+this.Amt+" "+this.Address;
+        }
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.Entity;
+
+namespace Demo_Repository
+{
+    public class CustomerContext : DbContext
+    {
+        public CustomerContext() : base("myConn")
+        {
+            Database.SetInitializer<CustomerContext>(new CreateDatabaseIfNotExists<CustomerContext>());
+        }
+
+        public DbSet<Customer> Customers { get; set; }
+    }
+}
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_Repository
+{
+    class CustomerRepository:ICustomerRepository
+    {
+        private CustomerContext context;
+
+        public CustomerRepository(CustomerContext context)
+        {
+            this.context = context;
+        }
+        public IEnumerable<Customer> GetCustomers()
+        {
+            return context.Customers.ToList();
+        }
+
+
+        public Customer GetCustomerByID(int customerId)
+        {
+            return context.Customers.Find(customerId);
+        }
+        public void InsertCustomer(Customer customer)
+        {
+            context.Customers.Add(customer);
+        }
+
+
+        public void DeleteCustomer(int customerId)
+        {
+            Customer customer = context.Customers.Find(customerId);
+            context.Customers.Remove(customer);
+        }
+
+        public void UpdateCustomer(Customer newCustomer)
+        {
+            Customer customer = context.Customers.Find(newCustomer.Id);
+          
+            context.Entry(customer).CurrentValues.SetValues(newCustomer);
+        }
+
+        public void Save()
+        {
+            context.SaveChanges();
+        }
+    }
+}
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo_Repository
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            CustomerContext db = new CustomerContext();
+            CustomerRepository repository = new CustomerRepository(db);
+            var cs = repository.GetCustomers();
+            Console.WriteLine("Display First");
+            foreach (var x in cs) { Console.WriteLine(x); }
+            repository.InsertCustomer(new Customer(1, "Jai", "9876543", "CTS", 12000));
+            repository.InsertCustomer(new Customer(2, "Jane", "987656743", "Chennai", 16000));
+            repository.Save();
+            Console.WriteLine("Display after insert");
+            cs = repository.GetCustomers();
+            foreach (var x in cs) { Console.WriteLine(x); }
+            // repository.DeleteCustomer(1);
+            //repository.Save();
+            //Console.WriteLine("Display after Delete" +
+            //    "");
+            //cs = repository.GetCustomers();
+            repository.UpdateCustomer(new Customer(1, "Satheesh", "98769943", "CTS,Banglore", 32000));
+            repository.Save();
+            Console.WriteLine("Display after update" +
+                "");
+            cs = repository.GetCustomers();
+            foreach (var x in cs) { Console.WriteLine(x); }
+
+            Customer customer = repository.GetCustomerByID(2);
+            Console.WriteLine(customer);
+            Console.ReadLine();
+        }
+    }
+}
