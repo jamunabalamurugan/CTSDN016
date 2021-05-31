@@ -255,7 +255,9 @@ Updated Successfully
                 }
                 
                 Console.WriteLine("Update Course Fee");
+		Console.WriteLine("Enter Course ID");
                 int id=int.Parse(Console.ReadLine());
+		Console.WriteLine("Enter Course Fee");
                 double fee=double.Parse(Console.ReadLine());
                 obj.UpdateCourseFee(id,fee);
            }

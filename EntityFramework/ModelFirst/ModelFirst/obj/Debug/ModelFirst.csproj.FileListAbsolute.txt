@@ -21,3 +21,15 @@ E:\CTS\Jan 2021\C#\Week3CSharp\Entity Framework\ModelFirst\ModelFirst\obj\Debug\
 E:\CTS\Jan 2021\C#\Week3CSharp\Entity Framework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CopyComplete
 E:\CTS\Jan 2021\C#\Week3CSharp\Entity Framework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.exe
 E:\CTS\Jan 2021\C#\Week3CSharp\Entity Framework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.pdb
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.exe
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.pdb
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe.config
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\ModelFirst.pdb
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\EntityFramework.dll
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\EntityFramework.xml
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CopyComplete

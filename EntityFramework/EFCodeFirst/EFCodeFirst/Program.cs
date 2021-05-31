@@ -8,21 +8,43 @@ namespace EFCodeFirst
 {
     class Program
     {
-        static void Main(string[] args)
+        DataAccessHelper dbHelper = new DataAccessHelper();
+        public void AddEmp()
+        {
+            Employee emp = new Employee();
+            Console.WriteLine("Enter Employee  Name");
+            emp.EmployeeName = Console.ReadLine();
+            Console.WriteLine("Enter Department Id");
+            emp.DepartmentId = Convert.ToInt32(Console.ReadLine());
+                      
+            dbHelper.AddEmployee(emp);
+        }
+        public void DisplayEmp()
+        {
+            var employees = dbHelper.FetchEmployees();
+            foreach (var item in employees)
+            {
+                Console.WriteLine(item.EmployeeId + "\t" + item.EmployeeName + "\t" + item.DepartmentId + "\t" + item.Departments.DepartmentName);
+            }
+
+        }
+        public void AddDep()
         {
             Department department = new Department
             {
-                DepartmentName = "Sales",
+                DepartmentName = "IT",
+
                 Employees = new List<Employee>
                 {
-                    new Employee() {EmployeeName = "Kavin"},
-                    new Employee() {EmployeeName = "Kanav"},
-                    new Employee() {EmployeeName = "Sumedha"}
+                    new Employee() {EmployeeName = "Kavin2"},
+                    new Employee() {EmployeeName = "Kanav2"},
+                    new Employee() {EmployeeName = "Sumedha2"}
                 }
             };
-            DataAccessHelper dbHelper = new DataAccessHelper();
             dbHelper.AddDepartment(department);
-            // var addedDepartment = dbHelper.FetchDepartments().FirstOrDefault();
+        }
+        public void DisplayDep()
+        {
             var addedDepartment = dbHelper.FetchDepartments();
             if (addedDepartment != null)
             {
@@ -30,16 +52,28 @@ namespace EFCodeFirst
                 //                   addedDepartment.DepartmentName + Environment.NewLine);
                 foreach (var item in addedDepartment)
                 {
-                    Console.WriteLine(item.DepartmentId+"\t"+item.DepartmentName);
+                    Console.WriteLine(item.DepartmentId + "\t" + item.DepartmentName);
 
                     Console.WriteLine("Department Employees are: \n");
-                    foreach (var addedDepartmentEmployee in item.Employees)
+                    foreach (var emp in item.Employees)
                     {
-                        Console.WriteLine(addedDepartmentEmployee.EmployeeName + Environment.NewLine);
+                        Console.WriteLine(emp.EmployeeName + Environment.NewLine);
                     }
                 }
                 Console.ReadLine();
             }
+        }
+        static void Main(string[] args)
+        {
+
+            Program p = new Program();
+            p.AddEmp();
+            p.DisplayEmp();
+            Console.ReadKey();
+          
+           
+           
+           
         }
     }
 }

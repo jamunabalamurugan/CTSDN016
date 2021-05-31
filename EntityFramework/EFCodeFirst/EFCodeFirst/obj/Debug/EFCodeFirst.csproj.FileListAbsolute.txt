@@ -10,3 +10,15 @@ E:\CTS\C#\Week3CSharp\Entity Framework\EFCodeFirst\EFCodeFirst\bin\Debug\EntityF
 E:\CTS\C#\Week3CSharp\Entity Framework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CopyComplete
 E:\CTS\C#\Week3CSharp\Entity Framework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.exe
 E:\CTS\C#\Week3CSharp\Entity Framework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.pdb
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe.config
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.pdb
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.dll
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.xml
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CopyComplete
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.exe
+E:\CTS\DN016\Training\EntityFramework\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.pdb

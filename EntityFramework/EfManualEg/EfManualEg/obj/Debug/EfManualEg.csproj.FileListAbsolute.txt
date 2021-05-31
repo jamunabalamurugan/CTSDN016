@@ -22,3 +22,15 @@ E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\E
 E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csproj.CopyComplete
 E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.exe
 E:\CTS\Week5\C#_EFDay1\EF Manual and Automated\EfManualEg\EfManualEg\obj\Debug\EfManualEg.pdb
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\obj\Debug\EfManualEg.exe
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\obj\Debug\EfManualEg.pdb
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EfManualEg.exe.config
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EfManualEg.exe
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EfManualEg.pdb
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EntityFramework.dll
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EntityFramework.SqlServer.dll
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EntityFramework.xml
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\bin\Debug\EntityFramework.SqlServer.xml
+E:\CTS\DN016\Training\EntityFramework\EfManualEg\EfManualEg\obj\Debug\EfManualEg.csproj.CopyComplete

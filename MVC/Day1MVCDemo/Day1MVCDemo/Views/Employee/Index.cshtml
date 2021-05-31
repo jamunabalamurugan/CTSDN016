@@ -1,0 +1,27 @@
+﻿@using Day1MVCDemo.Models
+@model Employee
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<h2>Employee Details</h2>
+
+<table border="1">
+    <tr>
+  
+    <th>Emp No</th>
+    <th>Emp Name</th>
+    <th>Emp Salary</th>
+ 
+    </tr>
+    <tr>
+        @*<td>@ViewBag.empdetail.eid</td>
+        <td>@ViewBag.empdetail.ename</td>
+        <td>@ViewBag.empdetail.salary</td>*@
+        <td>@Model.eid</td>
+        <td>@Model.ename</td>
+        <td>@Model.salary</td>
+    </tr>
+
+</table>
+

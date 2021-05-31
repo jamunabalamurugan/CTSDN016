@@ -2,13 +2,13 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 02/18/2021 15:30:50
--- Generated from EDMX file: E:\CTS\C#\Week3CSharp\Entity Framework\ModelFirst\ModelFirst\Model1.edmx
+-- Date Created: 05/25/2021 11:51:53
+-- Generated from EDMX file: E:\CTS\DN016\Training\EntityFramework\ModelFirst\ModelFirst\Model1.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
 GO
-USE [ModelFirstDemoDb];
+USE [NewCTSModelFirstDb];
 GO
 IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
 GO
@@ -24,6 +24,9 @@ GO
 
 IF OBJECT_ID(N'[dbo].[Customers]', 'U') IS NOT NULL
     DROP TABLE [dbo].[Customers];
+GO
+IF OBJECT_ID(N'[dbo].[Categories]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[Categories];
 GO
 
 -- --------------------------------------------------

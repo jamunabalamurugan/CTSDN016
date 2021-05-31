@@ -1,0 +1,352 @@
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\ApplicationInsights.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.pdb
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.rsp
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.rsp
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.AppContext.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Console.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Compression.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Pipes.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Claims.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Threading.Thread.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.ValueTuple.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.rsp
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.jQuery.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ApplicationInsights.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\WebGrease.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.pdb
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csprojAssemblyReference.cache
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CoreCompileInputs.cache
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CopyComplete
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.dll
+D:\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.pdb
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\ApplicationInsights.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.pdb
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.rsp
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.rsp
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.AppContext.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Collections.Immutable.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Console.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Compression.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Pipes.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.AccessControl.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Claims.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Threading.Thread.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.ValueTuple.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.rsp
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe.config
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.bootstrap.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.jQuery.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Agent.Intercept.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ApplicationInsights.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.WebForms.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.Web.Infrastructure.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\WebGrease.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.pdb
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csprojAssemblyReference.cache
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CoreCompileInputs.cache
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CopyComplete
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.dll
+G:\JAMUNA\LTI Jan 2020\GET 830\Training\Asp.Net\Day1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.pdb
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\ApplicationInsights.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.pdb
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.rsp
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.rsp
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.AppContext.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Console.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Compression.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Pipes.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.AccessControl.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Claims.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Threading.Thread.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.ValueTuple.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.rsp
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.bootstrap.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.jQuery.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ApplicationInsights.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.WebForms.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\WebGrease.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.pdb
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csprojAssemblyReference.cache
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CoreCompileInputs.cache
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CopyComplete
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.dll
+E:\DXC\ASP.Net\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.pdb
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\ApplicationInsights.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\PrjFirstApplication.pdb
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csc.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\csi.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.AppContext.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Console.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.Process.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Compression.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.IO.Pipes.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.AccessControl.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Claims.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Threading.Thread.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.ValueTuple.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\vbc.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.bootstrap.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\AspNet.ScriptManager.jQuery.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ApplicationInsights.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.ScriptManager.WebForms.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\WebGrease.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Web.Optimization.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Newtonsoft.Json.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Antlr3.Runtime.pdb
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\System.Diagnostics.DiagnosticSource.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.DependencyCollector.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.WindowsServer.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.AI.Web.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.csproj.CopyComplete
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PrjFirstApplication\PrjFirstApplication\obj\Debug\PrjFirstApplication.pdb

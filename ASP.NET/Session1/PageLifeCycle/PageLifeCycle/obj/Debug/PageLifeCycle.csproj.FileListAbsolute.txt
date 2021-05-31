@@ -1,0 +1,232 @@
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll.config
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.pdb
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe.config
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.rsp
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe.config
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.rsp
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.AppContext.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Console.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.Process.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Compression.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Pipes.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.AccessControl.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Claims.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Threading.Thread.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.ValueTuple.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe.config
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.rsp
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csprojAssemblyReference.cache
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CoreCompileInputs.cache
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CopyComplete
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.dll
+D:\TrainingMaterial\Batch\Batch 5\ASP_M\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.pdb
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll.config
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.pdb
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe.config
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.rsp
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe.config
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.rsp
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.AppContext.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Collections.Immutable.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Console.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.Process.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Compression.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Pipes.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Reflection.Metadata.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.AccessControl.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Claims.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Principal.Windows.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Threading.Thread.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.ValueTuple.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XmlDocument.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe.config
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.rsp
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe.config
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csprojAssemblyReference.cache
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CoreCompileInputs.cache
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CopyComplete
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.dll
+C:\monisha\Asp.net\Day1-20200124T035659Z-001\Day1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.pdb
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll.config
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.pdb
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe.config
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.rsp
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe.config
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.rsp
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.AppContext.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Collections.Immutable.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Console.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.Process.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Compression.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Pipes.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Reflection.Metadata.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.AccessControl.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Claims.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Threading.Thread.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.ValueTuple.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe.config
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.rsp
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe.config
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csprojAssemblyReference.cache
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CoreCompileInputs.cache
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CopyComplete
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.dll
+E:\DXC\ASP.Net\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.pdb
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\PageLifeCycle.pdb
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csc.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\csi.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.AppContext.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Console.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.Process.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Compression.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.IO.Pipes.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.AccessControl.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Claims.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Threading.Thread.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.ValueTuple.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\vbc.rsp
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.csproj.CopyComplete
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.dll
+E:\CTS\DN016\Training\ASP.NET\Session1\PageLifeCycle\PageLifeCycle\obj\Debug\PageLifeCycle.pdb

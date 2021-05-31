@@ -9,6 +9,7 @@ namespace EFCodeFirst
 {
     public class CodeFirstContext : DbContext
     {
+        public CodeFirstContext() : base("name = MyNewContext") { }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Department> Departments { get; set; }
     }

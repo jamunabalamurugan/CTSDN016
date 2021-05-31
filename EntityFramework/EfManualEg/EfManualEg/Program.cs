@@ -71,7 +71,7 @@ namespace EfManualEg
         }
         public static void DisplayRegions()
         {
-            foreach (var item in db.DummyRegions)
+            foreach (var item in db.Regions)
             {
                 Console.WriteLine(item.RegionId+"\t"+item.RegionDescription);
             }
@@ -80,7 +80,44 @@ namespace EfManualEg
                 Console.WriteLine(item.CategoryID+"\t"+item.CategoryName+"\t"+item.Description);
             }
         }
-        static void Main(string[] args)
+        public static void Lazyloading()
+        {
+            //display product details
+            var p = db.Products.ToList();
+
+            foreach (var item in p)
+            {
+                if(item.Supplier!=null)
+                Console.WriteLine(item.Supplier.CompanyName+"\t"+item.ProductName);
+            }
+
+            //display suppliername and products supplied by supplier
+            var su = (from s in db.Suppliers
+                      join pr in db.Products
+                      on s.SupplierID equals pr.SupplierID
+                      select new { s.CompanyName, pr.ProductName }).ToList();
+            
+        }
+
+        public static void EagerLoading()
+        {
+            //Disable Lazy Loading 
+            db.Configuration.LazyLoadingEnabled = false;
+
+            var sup = db.Suppliers.Include("Products").ToList();
+
+            //Products supplied by particular supplier
+            var supplier1 = (from s in db.Suppliers
+                             .Include("Products")  //ProductModel table to be included in the result 
+                             where s.SupplierID == 20
+                             select s).ToList();
+            
+        }
+
+    
+
+
+    static void Main(string[] args)
         {
             while (true)
             {
@@ -103,7 +140,7 @@ namespace EfManualEg
                         Delete();
                         break;
                     case 5:
-                        DisplayRegions();
+                        Lazyloading();
                         break;
 
                     case 0:
