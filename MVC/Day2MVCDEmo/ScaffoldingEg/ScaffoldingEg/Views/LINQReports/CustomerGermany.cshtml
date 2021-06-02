@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ScaffoldingEg.Models.Customer>
+@{ 
+    var customers = Model;
+} 
+<h3>Customers Living in Germany</h3>
+<table>
+    <tr>
+        <th>
+            CustomerId
+        </th>
+        <th>
+            Customer Name
+        </th>
+        <th>
+            Country
+        </th>
+    </tr>
+    @foreach (var item in customers)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.ContactName</td>
+            <td>@item.Country</td>
+        </tr>
+
+    }
+
+</table>

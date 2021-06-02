@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVCLoginRegistrationEg.tblMovie>
+
+@{
+    //Layout = null;
+    ViewBag.Title = "Show All Movies List";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Add New Movie", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Movie Name")
+            @*@Html.DisplayNameFor(z => z.name)*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(z => z.duration)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(zz => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(zz => item.duration)
+        </td>
+        <td>
+            @Html.ActionLink("Change Movie", "Edit", new { id = item.id }) *|*
+            @Html.ActionLink("Display Movie", "DisplayByLocation", new { name = item.name }) *|*
+            @Html.ActionLink("Movie Details", "Details", new { id = item.id }) *|*
+            @Html.ActionLink("Delete Movie", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+
+</table>

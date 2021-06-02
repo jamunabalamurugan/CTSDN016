@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Accept";
+}
+
+<h2>Accept</h2>
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>@Html.Label("Enter Movie Name")</td>
+            <td>@Html.Editor("name")</td>
+            
+        </tr>
+        
+        <tr>
+            <td colspan="2"><input type="submit" value="Search" /></td>
+
+        </tr>
+    </table>
+    }

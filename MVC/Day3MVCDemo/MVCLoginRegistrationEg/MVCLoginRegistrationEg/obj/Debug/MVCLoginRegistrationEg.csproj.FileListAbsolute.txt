@@ -1,0 +1,166 @@
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.dll.config
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.pdb
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.exe
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.exe.config
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.rsp
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.exe
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.exe.config
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.rsp
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.AppContext.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Console.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Globalization.Calendars.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.Compression.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.FileSystem.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Net.Http.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Net.Sockets.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.ValueTuple.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XPath.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.exe
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.exe.config
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.rsp
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\VBCSCompiler.exe
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Antlr3.Runtime.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.Web.Infrastructure.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Newtonsoft.Json.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Helpers.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Mvc.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Optimization.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Razor.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Deployment.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Razor.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\WebGrease.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Helpers.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Mvc.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Optimization.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Razor.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Deployment.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Razor.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Newtonsoft.Json.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Antlr3.Runtime.pdb
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csproj.CopyComplete
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.pdb
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.SqlServer.dll
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.xml
+E:\CTS\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.SqlServer.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.dll.config
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\MVCLoginRegistrationEg.pdb
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.exe.config
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csc.rsp
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.exe.config
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\csi.rsp
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.AppContext.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Console.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Globalization.Calendars.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.Compression.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.FileSystem.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Net.Http.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Net.Sockets.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.ValueTuple.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XPath.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.exe.config
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\vbc.rsp
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\VBCSCompiler.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Antlr3.Runtime.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.SqlServer.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.Web.Infrastructure.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Newtonsoft.Json.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Helpers.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Mvc.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Optimization.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Razor.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Deployment.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Razor.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\WebGrease.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\EntityFramework.SqlServer.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Helpers.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Mvc.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Optimization.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.Razor.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Deployment.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\System.Web.WebPages.Razor.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Newtonsoft.Json.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Antlr3.Runtime.pdb
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csprojAssemblyReference.cache
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csproj.CoreCompileInputs.cache
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.csproj.CopyComplete
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.dll
+E:\CTS\Jan 2021\C#\Week3CSharp\ASP.Net MVC\MVCLoginRegistrationEg\MVCLoginRegistrationEg\obj\Debug\MVCLoginRegistrationEg.pdb

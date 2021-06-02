@@ -1,0 +1,28 @@
+﻿@model IEnumerable<tblMovie>
+@{
+    //model is the data type
+    ViewBag.Title = "Index";
+    var movies = Model;
+
+
+}
+
+<h2>Index</h2>
+<p>
+    @ViewData["ServerTime"]
+</p>
+
+@foreach (var item in movies)
+{
+    <dt>@item.id</dt>
+
+    <dd>@item.name&nbsp;@item.duration</dd>
+
+    @Html.ActionLink("Make Changes", "Edit", new { id = item.id })
+    @Html.ActionLink("Delete Movie", "Del", new { id = item.id })
+    <a href="javascript:;" onClick="if(confirm('Are you sure you want to delete this Movie')){Del(@item.id);}else{ }" class="btn btn-xs btn-danger btn-delete" title="Del Movie">Delete Movie</a>
+
+    <!-- language: lang-js -->
+
+}
+

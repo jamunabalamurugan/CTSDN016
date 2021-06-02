@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "UpcomingMovies";
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+
+</head>
+<body style="background-color:#58d8f1; margin:0px; font-family:Arial, Helvetica, sans-serif;  ">
+
+    <div>
+        <table style="width:100%;" border="0">
+            <tr>
+                <td style="background-image:url(../../images/header_bg.jpg); background-repeat:repeat-x;height:200px">
+                    <table style="width:100%;" border="0">
+                        <tr>
+                            <td style="width:261px;height:200px;vertical-align:top"><img src="../../images/movieroll.png" width="261" height="190" /></td>
+                            <td style="text-align:center;vertical-align:bottom;font-size: 36px; font-weight: bold; color:#003876; text-align: center; font:century;">
+                                Rainbow Entertainment<br />
+                            </td>
+                            <td style="width:312px; text-align:right; vertical-align:bottom"><img src="../../images/umbrella.png" width="312" height="173" /></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="height:35px; background-color:#df0005;padding-left:10%;"><b style="color:#f5eb8e;">Book your movie tickets online with special deals!!! </b></td>
+            </tr>
+            <tr>
+                <td>
+                    <table style="width:100%; " border="0">
+                        <tr>
+                            <td>&nbsp;</td>
+                            <td style="background-color:#FFFFFF">
+                                <table style="width:98%;" border="0">
+                                    <tr>
+                                        <td style="vertical-align:top; ">
+
+                                            <article>
+
+
+                                                @for (var i = 0; i < @ViewBag.names.Length; i++)
+                                                {
+                                                    <h2>@ViewBag.names[i]</h2>
+                                                    <h4>Star Cast: @ViewBag.starcast[i]</h4>
+                                                }
+
+                                            </article>
+
+                                            <p>&nbsp;</p>
+                                        </td>
+                                        <td style="width:225px;text-align:left;vertical-align:top;background-color:#fef814">
+                                            <p><img src="../../images/banner.png" width="225" height="268" /></p>
+                                            <p style="padding-left:10px;">
+                                                <strong>
+                                                    Hurry Up! <br />
+                                                    Heavy Discounts on <br />
+                                                    weekends....
+                                                </strong>
+                                            </p>
+                                            <p style="padding-left:10px;"><strong>Exciting offers!!!!<br /></strong></p>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="width:10%">&nbsp;</td>
+                            <td style="text-align:right;font-size:11px;">&copy;2021 CTS Entertainment. All rights reserved.</td>
+                            <td style="width:10%">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
+
