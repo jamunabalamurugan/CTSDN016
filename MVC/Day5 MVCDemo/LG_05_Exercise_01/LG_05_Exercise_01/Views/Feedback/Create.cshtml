@@ -1,0 +1,139 @@
+﻿
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+</head>
+
+
+<body style=" background-image:url(../../images/bg.jpg); margin:0; font-family:Arial, Helvetica, sansserif;  ">
+
+<div>
+  <table style="width:100%; padding:0; border-collapse:collapse" border="0" >
+    <tr>
+
+        <td style="width:10%;background-image:url(../../images/header_bg.jpg); background-repeat:repeat-x;height:275px">&nbsp;</td>
+      <td style="background-image:url(../../images/header_bg.jpg); background-repeat:repeat-x; height:275px"><table style="width:100%" border="0" padding:0; border-collapse:collapse">
+        <tr>
+          <td style="width:65%"><img src="../../images/header_img.jpg" width="545" height="275"></td>
+          <td style="width:35%; text-align:right;vertical-align:bottom;color:#ffffff; font-family:Georgia; font-size:36px;">Gift Gallery</td>
+        </tr>
+      </table></td>
+      <td style="width:10%;background-image:url(../../images/header_bg.jpg); background-repeat:repeat-x;height:275px">&nbsp;</td>
+
+
+    </tr>
+    <tr>
+       <td style="width:10%">&nbsp;</td>
+      <td style="height:35px; background-color:#ffcc00;color:#000;text-align:center">
+        @Html.ActionLink("Home", "Index","Home") |
+        @Html.ActionLink("Offers", "Offers","Home") |
+        @Html.ActionLink("Contact Us", "ContactUs","Home") |
+        @Html.ActionLink("Gifts", "Index","Gifts") |
+          @Html.ActionLink("Feedback", "create","Feedback")           
+      </td>
+      <td style="width:10%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td style="background-color:#FFFFFF; "><table style="width:98%;padding:0; border-collapse:collapse; margin-left:auto;margin-right:auto" border="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+
+    
+        <tr>
+          <td style="font-size:12px; ">
+@model LG_05_Exercise_01.Models.Feedback
+
+@{
+    ViewBag.Title = "Feedback";
+}
+
+<h2>Feedback Page</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(false)
+
+    <fieldset>
+        <legend>Feedback</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Customer_Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Customer_Name)
+            @Html.ValidationMessageFor(model => model.Customer_Name,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Phone_Number)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Phone_Number)
+            @Html.ValidationMessageFor(model => model.Phone_Number,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Message_Type)
+        </div>
+        <div class="editor-field">
+             @Html.RadioButtonFor(model => model.Message_Type,"Comment") Comment 
+         @Html.RadioButtonFor(model => model.Message_Type, "Complaint") Complaint
+              @Html.RadioButtonFor(model => model.Message_Type,"Request") Request
+            @Html.ValidationMessageFor(model => model.Message_Type,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Regarding)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model=>model.Regarding,(SelectList)ViewBag.category,String.Empty)
+            @Html.ValidationMessageFor(model => model.Regarding,"*")
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Your_Message)
+        </div>
+        <div class="editor-field">
+             @Html.TextAreaFor(mode=>Model.Your_Message, 5, 20, null)
+            @Html.ValidationMessageFor(model => model.Your_Message,"*")
+        </div>
+
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+</td>
+        </tr>
+        
+      </table></td>
+      <td>&nbsp;</td>
+    </tr>
+      <tr>
+       @Html.Partial("_Partial")
+    </tr>
+    <tr>
+      <td style="width:10%">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td style="width:10%">&nbsp;</td>
+    </tr>
+  </table>
+
+
+</div>
+
+</body>
+</html>

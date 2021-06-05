@@ -51,9 +51,6 @@ namespace LayoutEg.Controllers
                     return View();
                 }
             }
-
-
-
             return View(clogin);
         }
 
