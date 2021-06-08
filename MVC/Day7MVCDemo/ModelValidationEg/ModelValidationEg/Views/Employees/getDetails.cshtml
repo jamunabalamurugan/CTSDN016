@@ -1,0 +1,23 @@
+﻿@model ModelValidationEg.Models.Employee;
+@using GridMvc.Html
+@{
+    ViewBag.Title = "getDetails";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<link href="@Url.Content("~/Content/Gridmvc.css")" rel="stylesheet" type="text/css" />
+<script src="@Url.Content("~/Scripts/gridmvc.min.js")" type="text/javascript"> </script>
+<script src="~/Scripts/bootstrap.js"></script>
+<link href="@Url.Content("~/Content/Css/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+<h2>getDetails</h2>
+
+@Html.Grid(Model).Columns(columns =>
+{
+    columns.Add(foo => foo.Eid).Titled("Custom column title").SetWidth(110);
+    columns.Add(foo => foo.Ename).Sortable(true).Filterable(true) ;
+    columns.Add(foo => foo.Email).Sortable(true).Filterable(true);
+    columns.Add(foo => foo.PhoneNumber).Sortable(true).Filterable(true);
+    columns.Add(foo => foo.doj).Sortable(true).Filterable(true);
+    columns.Add(foo => foo.Age).Sortable(true).Filterable(true);
+
+}).WithPaging(20)
+

@@ -1,0 +1,58 @@
+﻿@model RemoteValidationEg.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Sname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Marks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marks)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pwd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pwd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dob)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dob)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Sid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

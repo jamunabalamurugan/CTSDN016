@@ -1,0 +1,17 @@
+﻿@model ViewswithButtons.Models.Customer
+@{
+    ViewBag.Title = "Create";
+}
+@ViewBag.Message
+<h2>Create</h2>
+@using (Html.BeginForm())
+{
+    @Html.EditorForModel();
+
+
+/*<input type="submit" name="Save" value="Save"/>
+<input type="submit" name="Cancel" value="Cancel"/>*/
+
+    <input type="submit" name="Save" value="Save" formaction="SaveForm" formmethod="Post"/>
+    <input type="submit" name="Cancel" value="Cancel" formaction="CancelForm" formmethod="Post" />
+}

@@ -1,0 +1,366 @@
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\ApplicationInsights.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.pdb
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.rsp
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.rsp
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.AppContext.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Collections.Immutable.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Console.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.Process.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Compression.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Pipes.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.AccessControl.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Claims.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Threading.Thread.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.ValueTuple.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.rsp
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe.config
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.ApplicationInsights.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Owin.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\WebGrease.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.pdb
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csprojAssemblyReference.cache
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CoreCompileInputs.cache
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CopyComplete
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.dll
+D:\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.pdb
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\ApplicationInsights.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.pdb
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.rsp
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.rsp
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.AppContext.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Collections.Immutable.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Console.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.Process.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Compression.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Pipes.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Reflection.Metadata.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.AccessControl.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Claims.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Threading.Thread.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.ValueTuple.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.rsp
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe.config
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.ApplicationInsights.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Web.Infrastructure.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Owin.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\WebGrease.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.pdb
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csprojAssemblyReference.cache
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CoreCompileInputs.cache
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CopyComplete
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.dll
+D:\GET_DOTnet\Training\Specialization\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.pdb
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\ApplicationInsights.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\RemoteValidationEg.pdb
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.exe.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csc.rsp
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.exe.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\csi.rsp
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.AppContext.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Collections.Immutable.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Console.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.Process.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Compression.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.IO.Pipes.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Reflection.Metadata.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.AccessControl.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Claims.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Security.Principal.Windows.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Threading.Thread.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.ValueTuple.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XmlDocument.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.exe.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\vbc.rsp
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\roslyn\VBCSCompiler.exe.config
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.ApplicationInsights.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Web.Infrastructure.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Owin.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\WebGrease.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\EntityFramework.SqlServer.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Helpers.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Mvc.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Optimization.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.Razor.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Deployment.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Web.WebPages.Razor.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Newtonsoft.Json.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Antlr3.Runtime.pdb
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Google.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\System.Diagnostics.DiagnosticSource.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.DependencyCollector.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.WindowsServer.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.AI.Web.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csprojAssemblyReference.cache
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CoreCompileInputs.cache
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.csproj.CopyComplete
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.dll
+E:\cts\ASP.Net using MVC\RemoteValidationEg\RemoteValidationEg\obj\Debug\RemoteValidationEg.pdb
