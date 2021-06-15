@@ -7,8 +7,8 @@ using System.Web.Mvc;
 
 namespace FiltersEg.Controllers
 {
-    //[HandleError]
-    //[Authorize]
+    [HandleError]
+    [Authorize]
     //[RoutePrefix("CTS")]
     public class HomeController : Controller
     {
@@ -46,13 +46,13 @@ namespace FiltersEg.Controllers
         {
             return DateTime.Now.ToString("T");
         }
-
+        [AllowAnonymous]
         public string DemoErrors()
         {
             string msg = "Welcome to MVC !!!";
             try
             {
-                int temp = 5;
+                int temp = 0;
                 int j = 25 / temp;
                 msg = j.ToString();
             }
@@ -75,7 +75,8 @@ namespace FiltersEg.Controllers
 
         public ActionResult OneMore()
         {
-            int i = int.MaxValue;
+            //int i = int.MaxValue;
+            int i = 10;
             checked
             {
                 i++;
@@ -84,7 +85,7 @@ namespace FiltersEg.Controllers
             return RedirectToAction("Index");
         }
 
-        [HandleError(ExceptionType = typeof(DivideByZeroException), View = "ViewPage1")]
+       [HandleError(ExceptionType = typeof(DivideByZeroException), View = "ViewPage1")]
         [AllowAnonymous]//Bypass authentication only for this action method
         public ActionResult AnotherProducts()
         {
@@ -93,7 +94,7 @@ namespace FiltersEg.Controllers
 
             return View();
         }
-
+        [Authorize(Users="Sumedha@gmail.com")]
         public ActionResult GetUsers()
         {
             return View();

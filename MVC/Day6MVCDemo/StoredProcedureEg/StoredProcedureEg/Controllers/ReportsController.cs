@@ -31,16 +31,16 @@ namespace StoredProcedureEg.Controllers
         {
             return View(db.SalesByCategory("Seafood", "1996"));
         }
-        public ActionResult Accept()
-        {
-            return View();
-        }
-        [HttpPost]
-        public ActionResult Accept(string q)
-        {
-            var result = db.SalesByCategory(q, "1996");
-            return PartialView("_SalesByCategory", result);
-        }
+        //public ActionResult Accept()
+        //{
+        //    return View();
+        //}
+        //[HttpPost]
+        //public ActionResult Accept(string q)
+        //{
+        //    var result = db.SalesByCategory(q, "1996");
+        //    return PartialView("_SalesByCategory", result);
+        //}
         public ActionResult AcceptCategory()
         {
             //Fetch values for DropDownList display

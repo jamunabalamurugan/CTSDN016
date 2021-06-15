@@ -1,0 +1,38 @@
+--QUESTIONS ASKED IN CLIENT INTERVIEW--
+
+1.Tell me about yourself.
+2.Oops Concepts.
+		1.Abstraction 2.Encapsulation 3. Inheritance 4. Polymorphism
+3.Polymorphism and types of Ploymorphism.
+4.Real time Example of Ploymorphism.
+5.If you are Having a coffee Machine, You have to change the functionality of the machine, how can you do it?(Method Overriding)
+6.Method Overloading and Method overriding.
+7.What is Identity?
+8.Noramlization and its Forms.
+9.Difference between Function and Stored Procedure.
+10.I have a class with some methods and members which i don't want anyone to change or acccess. What can be done???(sealed Class)
+11.What is Merge?
+12.What is Partition.
+13. Noramalize a table with empid,empname,empdept,deptname,manager. What is the Constraint you will add to manager?
+14.Views
+15. What are the types of join and why do we use them?
+
+16. What is Stored Procedure?
+
+17. What is view?
+
+18. What is the difference between Stored Procedure and view? 
+
+19. What is OOPs concept?
+
+20. Why do we use the OOPs concept leaving behind the Procedure oriented language?
+
+21.Tell me about your mini project
+22.what are the keywords used in the mini prpject?
+23.Difference between Abstraction and encapsulation
+24.Difference between Abstract and interface
+
+
+
+
+

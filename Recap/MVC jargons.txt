@@ -1,0 +1,218 @@
+
+
+In Webapplication, using web form --> design(source)(.aspx) and Code- behind file (.cs) --> Page control approach
+MVC --> Front control approach --> a single controller can decide which view to be executed.
+
+Request --> default.aspx
+MVC-- > hits controller
+
+Three tier Architecture - DAL, BAL, UI
+MVC -> DAL+BAL - Model
+decide which view to be called, and if the view needs some data, it will
+fetch the data from model and provide to the view - Controller
+UI--> Views(html+c sharp code)
+
+There are three folders(important) in an MVC Applications"
+Model- 3 .cs files
+Controller- Account, Home, Manage - All the controllers are suffixed by the name "Controller". 
+The extension of the controller is .cs
+Views- For every controller, there is a folder which gets created in the Views folder
+	4 Folders, Account,Home, Manage, Shared - Files which are common for any controller
+The extension of the views is cshtml.
+
+Every controller is a class, which is inheriting from the controller class eg...public class LoginController:Controller{}
+There are 3 Methods in Home Controller - which are Index, About and Contact
+The views are getting created with the same name as the method name of the respective controllers.
+
+The controller has action methods which returns a view.
+The view which has the same name of the action method will be returned whenever there is a request
+of the action method from the client.
+The default page that is loaded when we run our application is the Index page of the home controller
+
+URL Request: localhost:portnumber/controller/actionmethod
+In Global.asax --> Application_start() --> RegisterRoutes() - static method - from Routeconfig
+For Default pages, we will not get controller/actionmethod
+We can change the default page in RegisterRoutes method.
+The URL Pattern can be changed by using Custom Segment Variables.
+
+MVC Application LifeCycle:
+1. URLRouting Module - Request and checks whether the request can be handled by MVC application
+2. MVCHandler - sniff the request, processrequest() - two parameters, home and index
+3. Controller Factory - controller.Execute() - create an instance of the class
+4. InvokeAction method of the controller - invokes action method
+5. ViewEngine - returning a view of the same name of action method name.
+6. cshtml is returned as a response.
+
+To add a new actionmethod to a controller 
+To add a view --> right click within the action method --> Add View --> having the same name of the actionmethod
+The new view will get added to the controller folder of the views folder, with an extension of cshtml
+
+Return types of Actionmethods:
+1. ActionResult - Base class for all the return types
+2. ContenResult - which will return a content - string
+3. ViewResult - returns a view
+4. JsonResult - returns Json
+5. EmptyResult - return null
+6. FilResult- returns file
+7. RedirectResult - transfers control from one page to another
+
+NonAction Attribute --> to inform the compiler that the method is not an action method. 
+No entry will be created for these methods in the Route Table.
+
+Views- Razor Syntax
+Mark up syntax - can switch between html and server based code - 
+prefix server based code with @.
+
+Strongly typed views- If the view is bound with a model, @model and access it with Model.
+
+To pass data from controller to View:
+The viewData and ViewBag are available from the controller's action method to the corresponding view.
+1. ViewData - Dictionary Object - key value pair - typecast
+2. ViewBag -Dynamic Property - need not be typecasted
+3. TempData - Dictionary object- pass data from one controller to another (one actionmethod to another)
+short lived session variable
+TempData.keep method of tempdata makes the value sustain for next life cycle
+Peek is to persist and retrieve
+4. Session - This value is retained till the user logs out of the session
+
+
+
+
+Entity Framework:
+ORM - Object Relation Mapping
+Object -Instance of a class
+Realtion - Table in Backend
+Map - Table - Class
+Attributes of the table will be mapped to properties of the class
+Employee - Empid, Empname, Salary, DOJ, DepartmentID
+public class Employee
+{
+public int Empid{get;set;}
+public string Empname{get;set;}
+public float Salary{get;set;}
+public Datetime DOJ{get;set;}
+public int DepartmentID{get;set;}
+}
+
+3 ways in EF:
+1. Database first approach -->
+2. Code first approach
+3. Model first approach
+
+DBContext--> inherits 
+
+EF Steps :
+
+Database first approach:
+1. Create a class 
+2. Create a context class which inherits from DbContext 
+3. Make an entry in web.config file for the connection string
+4. Create a controller, instantiate the context class and fetch the dbset property
+5. Generate the view.
+
+Code First approach:
+1. Create a class
+2. Create a context class which inherits DbContext class
+3. In the constructor of context class, pass the name of the connectionstring
+4. In the web.config file, add the context name against the connectionstring
+5. In Package Manager Console, enable migrations for the contextname
+	enable-migrations -ContextTypeName contextname
+6. Edit the seed method whic is available Migrations folder Configuration.cs file
+7. Update the database in PM console.
+	Update-Database -Verbose
+8. Create a controller, instantiate the context class and fetch the dbset
+9. Generate the view
+10. Check in sql server object explorer, if the database and table with values are present. 
+
+4 ways to transfer the data from the view to the controller:
+1. Object(Two way Model Binding)
+2. Request
+3. FormCollection
+4. Individual Arguments
+
+CRUD operations with MVC and EF
+
+
+Views
+HTML helpers
+Custom model binding
+Custom helpers
+How to use SelectList for showing data in dropdownlist box
+
+
+
+LayoutViews
+Partial Views
+Attribute Based Routing
+Action Filters-Authorize,HandleError,ValidationAttribute
+
+
+Validation Controls in Webforms:
+1. RequiredField Validator
+2. Range Validator
+3. Regular Expression Validator
+4. Compare Validator
+5. Custom Validator
+6. Validation summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

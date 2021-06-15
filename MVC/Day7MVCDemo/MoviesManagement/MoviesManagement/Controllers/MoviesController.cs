@@ -31,7 +31,7 @@ namespace MoviesManagement.Controllers
         {
         
 
-            var movies = db.Movies.Include(m => m.genre);
+            var movies = db.Movies.Include(m => m.genre);//Eager Loading 
             ViewBag.GenreID = new SelectList(db.Genres, "GenreID", "strGenre");
             if (GenreID == null)
             {

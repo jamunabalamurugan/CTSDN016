@@ -1,0 +1,25 @@
+Three Tier
+
+UI Layer--Front End,Console App, Desktop App,Web App
+
+Data Access Layer--Middle Tier ,This Layer has connection,Command,Fetch Results,Accept Details
+
+
+Data Layer--Back End,Data Layer,Storing information permanently, SQL Format / NoSQL Format
+
+
+N-Tier
+
+UI(Thin Client)-->Fat Client
+Business Logic Layer
+Data Access
+Database(Fat Server)-->Thin Server
+
+
+
+1. The DAL class must be created as a Class Library and with public scope
+2. Create BAL Class again as Class Libraray and reference the DLL of StudentDALEg.dll
+3.Create Client Class as a console application and reference the BAL of StudentBusinessLogicEg.dll
+4. App.cong --Pls give the connection string
+
+

@@ -30,35 +30,4 @@ Steps to follow when we make some changes like adding a Password and Email prope
 	update-database -verbose	
 
 	If it is succesfull then it would give the message below
-Steps to follow when we make some changes like adding a Password and Email property to Model
-1.Go to Tools->Nuget Package Manager->PackageManager Console
-2. Type the command to enable migrations and execute
-	enable-migrations -ContextTypeName PhotoExampleContext
-3.This command will create the Migrations Folder...Open the Configurations.cs file 
-	in the Configuration() constructor
-	{
-	AutomaticMigrationsEnabled=true;
-	}
-4. Make the changes in the InitialCreate.cs file
-
- public partial class InitialCreate : DbMigration
-    {
-        public override void Up()
-        {
-            CreateTable(
-                "dbo.tblStudents",
-                c => new
-                    {
-                        StudentId = c.Int(nullable: false, identity: true),
-                        StudentName = c.String(),
-                        Photo = c.String(),
-			Password=c.String(),
-                        Email = c.String(),
-                    })
-                .PrimaryKey(t => t.StudentId);
-            
-        }
-5. Again go to the PM console and type the command to update database
-	update-database -verbose	
-	
-If it is succesful we will get a message as Running Seed method.
+	Runnig Seed Method.
